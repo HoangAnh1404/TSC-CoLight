@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-01-19 17:19:44 by Eclipse SUMO sumo Version 1.24.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="Scenario/test/env/test.net.xml"/>
+        <route-files value="Scenario/test/env/../routes/vehicle.rou.xml"/>
+        <additional-files value="Scenario/test/env/../add/tls.add.xml,Scenario/test/env/ ../add/e2.add.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output.write-unfinished value="true"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="500"/>
+        <step-length value="1.0"/>
+    </time>
+
+    <processing>
+        <lateral-resolution value="0.2"/>
+        <time-to-teleport value="-1"/>
+        <waiting-time-memory value="10000"/>
+        <max-depart-delay value="100000"/>
+    </processing>
+
+    <report>
+        <no-warnings value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+    <traci_server>
+        <remote-port value="37585"/>
+    </traci_server>
+
+    <random_number>
+        <random value="true"/>
+    </random_number>
+
+</sumoConfiguration>

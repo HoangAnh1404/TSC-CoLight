@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-11-11 15:48:21 by Eclipse SUMO sumo Version 1.24.0
+-->
+
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="map.net.xml"/>
+        <additional-files value="map.poly.xml, ../add/e2.add.xml"/>
+        <gui-settings-file value="view.xml"/>
+        <route-files value="../routes/binh_thuong/vehicle.rou.xml"/>
+        <processing>
+            <!-- chia mỗi làn thành nhiều dải nhỏ (sublane) -->
+            <lateral-resolution value="0.2"/>
+        </processing>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="500"/>
+        <step-length value="1.0"/>
+    </time>
+    <output>
+        <summary-output value="../output/e2_summary.output.xml"/>
+        <netstate-dump value="../output/e2.netstate.xml"/>
+        <netstate-dump.precision value="2"/>
+        <tripinfo-output value="../output/e2.tripinfo.xml"/>
+    </output>
+
+</sumoConfiguration>

@@ -1,0 +1,38 @@
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <personFlow id="-E5__-E3_0" begin="0" end="60.0" number="5">
+        <walk from="-E5" to="-E3"/>
+    </personFlow>
+    <personFlow id="-E4__E6_0" begin="0" end="60.0" number="5">
+        <walk from="-E4" to="E6"/>
+    </personFlow>
+    <personFlow id="-E5__-E3_1" begin="60.0" end="120.0" number="5">
+        <walk from="-E5" to="-E3"/>
+    </personFlow>
+    <personFlow id="-E4__E6_1" begin="60.0" end="120.0" number="5">
+        <walk from="-E4" to="E6"/>
+    </personFlow>
+    <personFlow id="-E5__-E3_2" begin="120.0" end="180.0" number="5">
+        <walk from="-E5" to="-E3"/>
+    </personFlow>
+    <personFlow id="-E4__E6_2" begin="120.0" end="180.0" number="5">
+        <walk from="-E4" to="E6"/>
+    </personFlow>
+    <personFlow id="-E5__-E3_3" begin="180.0" end="240.0" number="5">
+        <walk from="-E5" to="-E3"/>
+    </personFlow>
+    <personFlow id="-E4__E6_3" begin="180.0" end="240.0" number="5">
+        <walk from="-E4" to="E6"/>
+    </personFlow>
+    <personFlow id="-E5__-E3_4" begin="240.0" end="300.0" number="5">
+        <walk from="-E5" to="-E3"/>
+    </personFlow>
+    <personFlow id="-E4__E6_4" begin="240.0" end="300.0" number="5">
+        <walk from="-E4" to="E6"/>
+    </personFlow>
+    <personFlow id="-E5__-E3_5" begin="300.0" end="360.0" number="5">
+        <walk from="-E5" to="-E3"/>
+    </personFlow>
+    <personFlow id="-E4__E6_5" begin="300.0" end="360.0" number="5">
+        <walk from="-E4" to="E6"/>
+    </personFlow>
+</routes>

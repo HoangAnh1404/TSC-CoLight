@@ -1,0 +1,10 @@
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <laneAreaDetector file="e2.output.xml" freq="60" friendlyPos="x" id="e2det--J1--E0--E0_1--rs" lane="E0_1" pos="105.98000000000002" length="50"/>
+    <laneAreaDetector file="e2.output.xml" freq="60" friendlyPos="x" id="e2det--J1--E0--E0_2--sl" lane="E0_2" pos="105.98000000000002" length="50"/>
+    <laneAreaDetector file="e2.output.xml" freq="60" friendlyPos="x" id="e2det--J1---E3---E3_1--rs" lane="-E3_1" pos="119.91" length="50"/>
+    <laneAreaDetector file="e2.output.xml" freq="60" friendlyPos="x" id="e2det--J1---E3---E3_2--sl" lane="-E3_2" pos="119.91" length="50"/>
+    <laneAreaDetector file="e2.output.xml" freq="60" friendlyPos="x" id="e2det--J1---E2---E2_1--rs" lane="-E2_1" pos="98.20000000000002" length="50"/>
+    <laneAreaDetector file="e2.output.xml" freq="60" friendlyPos="x" id="e2det--J1---E2---E2_2--sl" lane="-E2_2" pos="98.20000000000002" length="50"/>
+    <laneAreaDetector file="e2.output.xml" freq="60" friendlyPos="x" id="e2det--J1---E1---E1_1--rs" lane="-E1_1" pos="126.15" length="50"/>
+    <laneAreaDetector file="e2.output.xml" freq="60" friendlyPos="x" id="e2det--J1---E1---E1_2--sl" lane="-E1_2" pos="126.15" length="50"/>
+</additional>

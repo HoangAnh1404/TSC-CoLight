@@ -1,0 +1,3 @@
+2026-01-15T10:35:55.586736+0700 | INFO   | tshub.sumo_tools.detectors.e2_detectors:generate_detector:95 - SIM: ==========
+2026-01-15T10:35:55.587221+0700 | INFO   | tshub.sumo_tools.detectors.e2_detectors:generate_detector:96 - SIM: E2 探测器文件 /home/hoanganh04/Projects/CoLight/Scenario/1node/./detectors/e2.add.xml 生成生成!
+2026-01-15T10:35:55.587529+0700 | INFO   | tshub.sumo_tools.detectors.e2_detectors:generate_detector:97 - SIM: ==========

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-11-11 15:23:42 by Eclipse SUMO polyconvert Version 1.24.0
+-->
+
+<polyconvertConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/polyconvertConfiguration.xsd">
+
+    <input>
+        <net-file value="/home/hoanganh04/Projects/LLM-Assisted-Light/TSCScenario/map/env/map.net.xml"/>
+        <osm-files value="/home/hoanganh04/Projects/LLM-Assisted-Light/TSCScenario/map/map.osm"/>
+        <osm.merge-relations value="1"/>
+        <type-file value="/home/hoanganh04/Projects/LLM-Assisted-Light/TransSimHub/tshub/sumo_tools/./osm_build_type/poly.typ.xml"/>
+    </input>
+
+    <output>
+        <output-file value="/home/hoanganh04/Projects/LLM-Assisted-Light/TSCScenario/map/env/map.poly.xml"/>
+    </output>
+
+    <building_defaults>
+        <discard value="true"/>
+    </building_defaults>
+
+</polyconvertConfiguration>

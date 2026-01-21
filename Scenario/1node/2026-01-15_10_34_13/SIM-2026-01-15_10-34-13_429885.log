@@ -1,0 +1,742 @@
+2026-01-15T10:34:13.445113+0700 | INFO   | tshub.sumo_tools.generate_routes:generate_route:107 - SIM: 不生成行人的 Route 文件.
+2026-01-15T10:34:13.446564+0700 | WARNING | tshub.sumo_tools.generate_route.generate_trip:generate_trip_xml:116 - SIM: 'vClass' is not a known attribute. Check the documentation for valid attributes. https://sumo.dlr.de/docs/Definition_of_Vehicles%2C_Vehicle_Types%2C_and_Routes.html#available_vtype_attributes.
+2026-01-15T10:34:13.446824+0700 | WARNING | tshub.sumo_tools.generate_route.generate_trip:generate_trip_xml:116 - SIM: 'minGap' is not a known attribute. Check the documentation for valid attributes. https://sumo.dlr.de/docs/Definition_of_Vehicles%2C_Vehicle_Types%2C_and_Routes.html#available_vtype_attributes.
+2026-01-15T10:34:13.447038+0700 | WARNING | tshub.sumo_tools.generate_route.generate_trip:generate_trip_xml:116 - SIM: 'accel' is not a known attribute. Check the documentation for valid attributes. https://sumo.dlr.de/docs/Definition_of_Vehicles%2C_Vehicle_Types%2C_and_Routes.html#available_vtype_attributes.
+2026-01-15T10:34:13.447250+0700 | WARNING | tshub.sumo_tools.generate_route.generate_trip:generate_trip_xml:116 - SIM: 'maxSpeed' is not a known attribute. Check the documentation for valid attributes. https://sumo.dlr.de/docs/Definition_of_Vehicles%2C_Vehicle_Types%2C_and_Routes.html#available_vtype_attributes.
+2026-01-15T10:34:13.447470+0700 | WARNING | tshub.sumo_tools.generate_route.generate_trip:generate_trip_xml:116 - SIM: 'departSpeed' is not a known attribute. Check the documentation for valid attributes. https://sumo.dlr.de/docs/Definition_of_Vehicles%2C_Vehicle_Types%2C_and_Routes.html#available_vtype_attributes.
+2026-01-15T10:34:13.447779+0700 | WARNING | tshub.sumo_tools.generate_route.generate_trip:generate_trip_xml:116 - SIM: 'desiredMaxSpeed' is not a known attribute. Check the documentation for valid attributes. https://sumo.dlr.de/docs/Definition_of_Vehicles%2C_Vehicle_Types%2C_and_Routes.html#available_vtype_attributes.
+2026-01-15T10:34:13.447998+0700 | WARNING | tshub.sumo_tools.generate_route.generate_trip:generate_trip_xml:116 - SIM: 'vClass' is not a known attribute. Check the documentation for valid attributes. https://sumo.dlr.de/docs/Definition_of_Vehicles%2C_Vehicle_Types%2C_and_Routes.html#available_vtype_attributes.
+2026-01-15T10:34:13.448307+0700 | WARNING | tshub.sumo_tools.generate_route.generate_trip:generate_trip_xml:116 - SIM: 'minGap' is not a known attribute. Check the documentation for valid attributes. https://sumo.dlr.de/docs/Definition_of_Vehicles%2C_Vehicle_Types%2C_and_Routes.html#available_vtype_attributes.
+2026-01-15T10:34:13.448497+0700 | WARNING | tshub.sumo_tools.generate_route.generate_trip:generate_trip_xml:116 - SIM: 'accel' is not a known attribute. Check the documentation for valid attributes. https://sumo.dlr.de/docs/Definition_of_Vehicles%2C_Vehicle_Types%2C_and_Routes.html#available_vtype_attributes.
+2026-01-15T10:34:13.448726+0700 | WARNING | tshub.sumo_tools.generate_route.generate_trip:generate_trip_xml:116 - SIM: 'maxSpeed' is not a known attribute. Check the documentation for valid attributes. https://sumo.dlr.de/docs/Definition_of_Vehicles%2C_Vehicle_Types%2C_and_Routes.html#available_vtype_attributes.
+2026-01-15T10:34:13.448919+0700 | WARNING | tshub.sumo_tools.generate_route.generate_trip:generate_trip_xml:116 - SIM: 'departSpeed' is not a known attribute. Check the documentation for valid attributes. https://sumo.dlr.de/docs/Definition_of_Vehicles%2C_Vehicle_Types%2C_and_Routes.html#available_vtype_attributes.
+2026-01-15T10:34:13.449102+0700 | WARNING | tshub.sumo_tools.generate_route.generate_trip:generate_trip_xml:116 - SIM: 'desiredMaxSpeed' is not a known attribute. Check the documentation for valid attributes. https://sumo.dlr.de/docs/Definition_of_Vehicles%2C_Vehicle_Types%2C_and_Routes.html#available_vtype_attributes.
+2026-01-15T10:34:13.450403+0700 | INFO   | tshub.sumo_tools.generate_route.generate_trip:generate_trip_xml:154 - SIM: =>trip 文件生成成功.
+2026-01-15T10:34:13.470587+0700 | INFO   | tshub.sumo_tools.generate_route.generate_trip:_sort_departs:207 - SIM: Read 48 elements.
+2026-01-15T10:34:13.471215+0700 | INFO   | tshub.sumo_tools.generate_route.generate_trip:_sort_departs:214 - SIM: Wrote 48 elements.
+2026-01-15T10:34:13.471798+0700 | INFO   | tshub.sumo_tools.generate_route.generate_trip:edit_trip_xml:170 - SIM: =>trip 成功进行排序, 修改成功.
+2026-01-15T10:34:13.472687+0700 | DEBUG  | tshub.sumo_tools.generate_route.generate_turn_def:_expand_turn_definition:92 - SIM: edge_turndef 修改前:
+{
+    "E0__E1": [
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417
+    ],
+    "E0__E2": [
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815
+    ],
+    "E0__E3": [
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402
+    ],
+    "-E1__E2": [
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417
+    ],
+    "-E1__E3": [
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815
+    ],
+    "-E1__-E0": [
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402
+    ],
+    "-E2__E3": [
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417
+    ],
+    "-E2__-E0": [
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815
+    ],
+    "-E2__E1": [
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402
+    ],
+    "-E3__-E0": [
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417
+    ],
+    "-E3__E1": [
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815
+    ],
+    "-E3__E2": [
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402
+    ]
+}
+2026-01-15T10:34:13.477685+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.edge_info:get_in_outgoing:55 - SIM: E0-->E1
+2026-01-15T10:34:13.478261+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.edge_info:get_in_outgoing:55 - SIM: E0-->E2
+2026-01-15T10:34:13.478444+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.edge_info:get_in_outgoing:55 - SIM: E0-->E3
+2026-01-15T10:34:13.478596+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.edge_info:get_in_outgoing:55 - SIM: -E2-->E3
+2026-01-15T10:34:13.478720+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.edge_info:get_in_outgoing:55 - SIM: -E2-->-E0
+2026-01-15T10:34:13.478834+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.edge_info:get_in_outgoing:55 - SIM: -E2-->E1
+2026-01-15T10:34:13.478958+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.edge_info:get_in_outgoing:55 - SIM: -E1-->E2
+2026-01-15T10:34:13.479089+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.edge_info:get_in_outgoing:55 - SIM: -E1-->E3
+2026-01-15T10:34:13.479272+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.edge_info:get_in_outgoing:55 - SIM: -E1-->-E0
+2026-01-15T10:34:13.479553+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.edge_info:get_in_outgoing:55 - SIM: -E3-->-E0
+2026-01-15T10:34:13.479753+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.edge_info:get_in_outgoing:55 - SIM: -E3-->E1
+2026-01-15T10:34:13.480007+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.edge_info:get_in_outgoing:55 - SIM: -E3-->E2
+2026-01-15T10:34:13.481406+0700 | DEBUG  | tshub.sumo_tools.generate_route.generate_turn_def:_expand_turn_definition:127 - SIM: edge_turndef 修改后: 
+{
+    "E0__E1": [
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417
+    ],
+    "E0__E2": [
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815
+    ],
+    "E0__E3": [
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402
+    ],
+    "-E2__E3": [
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417
+    ],
+    "-E2__-E0": [
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815
+    ],
+    "-E2__E1": [
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402
+    ],
+    "-E1__E2": [
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417
+    ],
+    "-E1__E3": [
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815
+    ],
+    "-E1__-E0": [
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402
+    ],
+    "-E3__-E0": [
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417,
+        0.3904708421389417
+    ],
+    "-E3__E1": [
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815,
+        0.23858260399471815
+    ],
+    "-E3__E2": [
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402,
+        0.3709465538663402
+    ]
+}
+2026-01-15T10:34:13.482121+0700 | INFO   | tshub.sumo_tools.sumo_infos.turndef.connections:from_stream:181 - SIM: Reading connections from input stream
+2026-01-15T10:34:13.485115+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E1 (1) -> E2
+2026-01-15T10:34:13.485363+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for -E1
+2026-01-15T10:34:13.485500+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for -E1 / 1
+2026-01-15T10:34:13.485767+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E1 (1) -> E3
+2026-01-15T10:34:13.486718+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E1 (2) -> E3
+2026-01-15T10:34:13.486934+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for -E1 / 2
+2026-01-15T10:34:13.487183+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E1 (2) -> -E0
+2026-01-15T10:34:13.487459+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E2 (1) -> E3
+2026-01-15T10:34:13.487638+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for -E2
+2026-01-15T10:34:13.487764+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for -E2 / 1
+2026-01-15T10:34:13.488149+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E2 (1) -> -E0
+2026-01-15T10:34:13.488420+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E2 (2) -> -E0
+2026-01-15T10:34:13.488600+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for -E2 / 2
+2026-01-15T10:34:13.488809+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E2 (2) -> E1
+2026-01-15T10:34:13.489051+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E3 (1) -> -E0
+2026-01-15T10:34:13.489234+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for -E3
+2026-01-15T10:34:13.489355+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for -E3 / 1
+2026-01-15T10:34:13.489653+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E3 (1) -> E1
+2026-01-15T10:34:13.490546+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E3 (2) -> E1
+2026-01-15T10:34:13.490903+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for -E3 / 2
+2026-01-15T10:34:13.491172+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E3 (2) -> E2
+2026-01-15T10:34:13.491447+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection E0 (1) -> E1
+2026-01-15T10:34:13.491685+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for E0
+2026-01-15T10:34:13.491850+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for E0 / 1
+2026-01-15T10:34:13.492096+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection E0 (1) -> E2
+2026-01-15T10:34:13.492385+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection E0 (2) -> E2
+2026-01-15T10:34:13.492685+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for E0 / 2
+2026-01-15T10:34:13.492945+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection E0 (2) -> E3
+2026-01-15T10:34:13.493259+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_0 (0) -> E1
+2026-01-15T10:34:13.493463+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_0
+2026-01-15T10:34:13.493697+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_0 / 0
+2026-01-15T10:34:13.493922+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_16 (0) -> E1
+2026-01-15T10:34:13.494099+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_16
+2026-01-15T10:34:13.494224+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_16 / 0
+2026-01-15T10:34:13.494421+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_1 (0) -> E2
+2026-01-15T10:34:13.494549+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_1
+2026-01-15T10:34:13.494682+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_1 / 0
+2026-01-15T10:34:13.494938+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_1 (1) -> E2
+2026-01-15T10:34:13.495162+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_1 / 1
+2026-01-15T10:34:13.495439+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_3 (0) -> E3
+2026-01-15T10:34:13.495674+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_3
+2026-01-15T10:34:13.495811+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_3 / 0
+2026-01-15T10:34:13.496028+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_17 (0) -> E3
+2026-01-15T10:34:13.496205+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_17
+2026-01-15T10:34:13.496390+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_17 / 0
+2026-01-15T10:34:13.496621+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_4 (0) -> -E0
+2026-01-15T10:34:13.496786+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_4
+2026-01-15T10:34:13.496920+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_4 / 0
+2026-01-15T10:34:13.497151+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_18 (0) -> -E0
+2026-01-15T10:34:13.497332+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_18
+2026-01-15T10:34:13.497456+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_18 / 0
+2026-01-15T10:34:13.498089+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_5 (0) -> E1
+2026-01-15T10:34:13.498345+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_5
+2026-01-15T10:34:13.498474+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_5 / 0
+2026-01-15T10:34:13.498668+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_5 (1) -> E1
+2026-01-15T10:34:13.498790+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_5 / 1
+2026-01-15T10:34:13.498995+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_7 (0) -> E2
+2026-01-15T10:34:13.499113+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_7
+2026-01-15T10:34:13.499234+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_7 / 0
+2026-01-15T10:34:13.499377+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_19 (0) -> E2
+2026-01-15T10:34:13.499459+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_19
+2026-01-15T10:34:13.499527+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_19 / 0
+2026-01-15T10:34:13.499649+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_8 (0) -> E3
+2026-01-15T10:34:13.499727+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_8
+2026-01-15T10:34:13.499822+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_8 / 0
+2026-01-15T10:34:13.499975+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_20 (0) -> E3
+2026-01-15T10:34:13.500107+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_20
+2026-01-15T10:34:13.500283+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_20 / 0
+2026-01-15T10:34:13.500480+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_9 (0) -> -E0
+2026-01-15T10:34:13.500628+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_9
+2026-01-15T10:34:13.500753+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_9 / 0
+2026-01-15T10:34:13.500930+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_9 (1) -> -E0
+2026-01-15T10:34:13.501060+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_9 / 1
+2026-01-15T10:34:13.501274+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_11 (0) -> E1
+2026-01-15T10:34:13.501415+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_11
+2026-01-15T10:34:13.501583+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_11 / 0
+2026-01-15T10:34:13.501818+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_21 (0) -> E1
+2026-01-15T10:34:13.501937+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_21
+2026-01-15T10:34:13.502032+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_21 / 0
+2026-01-15T10:34:13.502252+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_12 (0) -> E2
+2026-01-15T10:34:13.502384+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_12
+2026-01-15T10:34:13.502488+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_12 / 0
+2026-01-15T10:34:13.502677+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_22 (0) -> E2
+2026-01-15T10:34:13.502799+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_22
+2026-01-15T10:34:13.502909+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_22 / 0
+2026-01-15T10:34:13.503118+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_13 (0) -> E3
+2026-01-15T10:34:13.503253+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_13
+2026-01-15T10:34:13.503356+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_13 / 0
+2026-01-15T10:34:13.503542+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_13 (1) -> E3
+2026-01-15T10:34:13.503665+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_13 / 1
+2026-01-15T10:34:13.503843+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_15 (0) -> -E0
+2026-01-15T10:34:13.503957+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_15
+2026-01-15T10:34:13.504061+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_15 / 0
+2026-01-15T10:34:13.504262+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_23 (0) -> -E0
+2026-01-15T10:34:13.504371+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_23
+2026-01-15T10:34:13.504459+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_23 / 0
+2026-01-15T10:34:13.504649+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J0_w0 (0) -> E0
+2026-01-15T10:34:13.504767+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J0_w0
+2026-01-15T10:34:13.504881+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J0_w0 / 0
+2026-01-15T10:34:13.505077+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E0 (0) -> :J0_w0
+2026-01-15T10:34:13.505229+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for -E0
+2026-01-15T10:34:13.505365+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for -E0 / 0
+2026-01-15T10:34:13.505626+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_c0 (0) -> :J1_w0
+2026-01-15T10:34:13.505840+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_c0
+2026-01-15T10:34:13.505974+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_c0 / 0
+2026-01-15T10:34:13.506209+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_c1 (0) -> :J1_w1
+2026-01-15T10:34:13.506398+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_c1
+2026-01-15T10:34:13.506560+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_c1 / 0
+2026-01-15T10:34:13.506764+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_c2 (0) -> :J1_w2
+2026-01-15T10:34:13.506892+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_c2
+2026-01-15T10:34:13.507021+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_c2 / 0
+2026-01-15T10:34:13.507407+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_c3 (0) -> :J1_w3
+2026-01-15T10:34:13.507582+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_c3
+2026-01-15T10:34:13.507703+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_c3 / 0
+2026-01-15T10:34:13.507907+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_w0 (0) -> :J1_c3
+2026-01-15T10:34:13.508101+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_w0
+2026-01-15T10:34:13.508343+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_w0 / 0
+2026-01-15T10:34:13.508568+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_w0 (0) -> E1
+2026-01-15T10:34:13.508876+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection E0 (0) -> :J1_w0
+2026-01-15T10:34:13.509081+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for E0 / 0
+2026-01-15T10:34:13.509332+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_w1 (0) -> :J1_c0
+2026-01-15T10:34:13.509574+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_w1
+2026-01-15T10:34:13.509751+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_w1 / 0
+2026-01-15T10:34:13.509957+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_w1 (0) -> -E0
+2026-01-15T10:34:13.510286+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E3 (0) -> :J1_w1
+2026-01-15T10:34:13.510510+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for -E3 / 0
+2026-01-15T10:34:13.510758+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_w2 (0) -> :J1_c1
+2026-01-15T10:34:13.512821+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_w2
+2026-01-15T10:34:13.512999+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_w2 / 0
+2026-01-15T10:34:13.513248+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_w2 (0) -> E3
+2026-01-15T10:34:13.513425+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E2 (0) -> :J1_w2
+2026-01-15T10:34:13.513743+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for -E2 / 0
+2026-01-15T10:34:13.514418+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_w3 (0) -> :J1_c2
+2026-01-15T10:34:13.514667+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J1_w3
+2026-01-15T10:34:13.514907+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J1_w3 / 0
+2026-01-15T10:34:13.515262+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J1_w3 (0) -> E2
+2026-01-15T10:34:13.515652+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection -E1 (0) -> :J1_w3
+2026-01-15T10:34:13.515844+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for -E1 / 0
+2026-01-15T10:34:13.516012+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J2_w0 (0) -> -E1
+2026-01-15T10:34:13.516138+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J2_w0
+2026-01-15T10:34:13.516232+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J2_w0 / 0
+2026-01-15T10:34:13.516364+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection E1 (0) -> :J2_w0
+2026-01-15T10:34:13.516482+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for E1
+2026-01-15T10:34:13.516573+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for E1 / 0
+2026-01-15T10:34:13.516697+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J3_w0 (0) -> -E2
+2026-01-15T10:34:13.516776+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J3_w0
+2026-01-15T10:34:13.516841+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J3_w0 / 0
+2026-01-15T10:34:13.516952+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection E2 (0) -> :J3_w0
+2026-01-15T10:34:13.517028+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for E2
+2026-01-15T10:34:13.517093+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for E2 / 0
+2026-01-15T10:34:13.517199+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection :J4_w0 (0) -> -E3
+2026-01-15T10:34:13.517271+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for :J4_w0
+2026-01-15T10:34:13.517334+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for :J4_w0 / 0
+2026-01-15T10:34:13.517440+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:115 - SIM: Adding connection E3 (0) -> :J4_w0
+2026-01-15T10:34:13.517607+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:119 - SIM: Created new mapping for E3
+2026-01-15T10:34:13.517803+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:add:124 - SIM: Created new mapping for E3 / 0
+2026-01-15T10:34:13.518068+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.518220+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E0 (0) -> :J0_w0: 100.000000
+2026-01-15T10:34:13.518321+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E0 -> :J0_w0 (100.000000)
+2026-01-15T10:34:13.518405+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E0 -> :J0_w0 with probability 100.000000
+2026-01-15T10:34:13.518696+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 1/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.518923+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E1 (1) -> E2: 16.666667
+2026-01-15T10:34:13.519138+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E1 -> E2 (16.666667)
+2026-01-15T10:34:13.519352+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E1 -> E2 with probability 16.666667
+2026-01-15T10:34:13.519544+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 1/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.519700+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E1 (1) -> E3: 16.666667
+2026-01-15T10:34:13.519850+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E1 -> E3 (16.666667)
+2026-01-15T10:34:13.519986+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E1 -> E3 with probability 16.666667
+2026-01-15T10:34:13.520225+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 2/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.520424+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E1 (2) -> -E0: 16.666667
+2026-01-15T10:34:13.520625+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E1 -> -E0 (16.666667)
+2026-01-15T10:34:13.520846+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E1 -> -E0 with probability 16.666667
+2026-01-15T10:34:13.521074+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 2/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.521288+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E1 (2) -> E3: 16.666667
+2026-01-15T10:34:13.521501+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E1 -> E3 (16.666667)
+2026-01-15T10:34:13.521705+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E1 -> E3 with probability 16.666667
+2026-01-15T10:34:13.521928+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/3 connected to 1 destinations: 33.333333
+2026-01-15T10:34:13.522088+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E1 (0) -> :J1_w3: 33.333333
+2026-01-15T10:34:13.522338+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E1 -> :J1_w3 (33.333333)
+2026-01-15T10:34:13.522559+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E1 -> :J1_w3 with probability 33.333333
+2026-01-15T10:34:13.522810+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 1/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.523012+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E2 (1) -> -E0: 16.666667
+2026-01-15T10:34:13.523163+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E2 -> -E0 (16.666667)
+2026-01-15T10:34:13.523332+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E2 -> -E0 with probability 16.666667
+2026-01-15T10:34:13.523457+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 1/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.523552+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E2 (1) -> E3: 16.666667
+2026-01-15T10:34:13.523632+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E2 -> E3 (16.666667)
+2026-01-15T10:34:13.523700+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E2 -> E3 with probability 16.666667
+2026-01-15T10:34:13.523768+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 2/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.523833+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E2 (2) -> E1: 16.666667
+2026-01-15T10:34:13.523894+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E2 -> E1 (16.666667)
+2026-01-15T10:34:13.523953+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E2 -> E1 with probability 16.666667
+2026-01-15T10:34:13.524016+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 2/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.524078+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E2 (2) -> -E0: 16.666667
+2026-01-15T10:34:13.524139+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E2 -> -E0 (16.666667)
+2026-01-15T10:34:13.524237+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E2 -> -E0 with probability 16.666667
+2026-01-15T10:34:13.524327+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/3 connected to 1 destinations: 33.333333
+2026-01-15T10:34:13.524395+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E2 (0) -> :J1_w2: 33.333333
+2026-01-15T10:34:13.524461+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E2 -> :J1_w2 (33.333333)
+2026-01-15T10:34:13.524524+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E2 -> :J1_w2 with probability 33.333333
+2026-01-15T10:34:13.524592+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 1/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.524656+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E3 (1) -> E1: 16.666667
+2026-01-15T10:34:13.524732+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E3 -> E1 (16.666667)
+2026-01-15T10:34:13.524798+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E3 -> E1 with probability 16.666667
+2026-01-15T10:34:13.524864+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 1/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.524926+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E3 (1) -> -E0: 16.666667
+2026-01-15T10:34:13.524990+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E3 -> -E0 (16.666667)
+2026-01-15T10:34:13.525054+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E3 -> -E0 with probability 16.666667
+2026-01-15T10:34:13.525121+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 2/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.525185+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E3 (2) -> E1: 16.666667
+2026-01-15T10:34:13.525245+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E3 -> E1 (16.666667)
+2026-01-15T10:34:13.525325+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E3 -> E1 with probability 16.666667
+2026-01-15T10:34:13.525415+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 2/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.525484+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E3 (2) -> E2: 16.666667
+2026-01-15T10:34:13.525668+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E3 -> E2 (16.666667)
+2026-01-15T10:34:13.525784+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E3 -> E2 with probability 16.666667
+2026-01-15T10:34:13.525886+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/3 connected to 1 destinations: 33.333333
+2026-01-15T10:34:13.526057+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection -E3 (0) -> :J1_w1: 33.333333
+2026-01-15T10:34:13.526165+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection -E3 -> :J1_w1 (33.333333)
+2026-01-15T10:34:13.526303+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for -E3 -> :J1_w1 with probability 33.333333
+2026-01-15T10:34:13.526408+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.526500+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J0_w0 (0) -> E0: 100.000000
+2026-01-15T10:34:13.526590+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J0_w0 -> E0 (100.000000)
+2026-01-15T10:34:13.526675+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J0_w0 -> E0 with probability 100.000000
+2026-01-15T10:34:13.526768+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.526886+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_0 (0) -> E1: 100.000000
+2026-01-15T10:34:13.526977+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_0 -> E1 (100.000000)
+2026-01-15T10:34:13.527064+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_0 -> E1 with probability 100.000000
+2026-01-15T10:34:13.527155+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/2 connected to 1 destinations: 50.000000
+2026-01-15T10:34:13.527251+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_1 (0) -> E2: 50.000000
+2026-01-15T10:34:13.527371+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_1 -> E2 (50.000000)
+2026-01-15T10:34:13.527471+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_1 -> E2 with probability 50.000000
+2026-01-15T10:34:13.527569+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 1/2 connected to 1 destinations: 50.000000
+2026-01-15T10:34:13.527658+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_1 (1) -> E2: 50.000000
+2026-01-15T10:34:13.527745+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_1 -> E2 (50.000000)
+2026-01-15T10:34:13.527831+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_1 -> E2 with probability 50.000000
+2026-01-15T10:34:13.527922+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.528010+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_11 (0) -> E1: 100.000000
+2026-01-15T10:34:13.528096+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_11 -> E1 (100.000000)
+2026-01-15T10:34:13.528180+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_11 -> E1 with probability 100.000000
+2026-01-15T10:34:13.528328+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.528426+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_12 (0) -> E2: 100.000000
+2026-01-15T10:34:13.528516+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_12 -> E2 (100.000000)
+2026-01-15T10:34:13.528602+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_12 -> E2 with probability 100.000000
+2026-01-15T10:34:13.528698+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/2 connected to 1 destinations: 50.000000
+2026-01-15T10:34:13.528786+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_13 (0) -> E3: 50.000000
+2026-01-15T10:34:13.528870+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_13 -> E3 (50.000000)
+2026-01-15T10:34:13.528957+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_13 -> E3 with probability 50.000000
+2026-01-15T10:34:13.529064+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 1/2 connected to 1 destinations: 50.000000
+2026-01-15T10:34:13.529157+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_13 (1) -> E3: 50.000000
+2026-01-15T10:34:13.529242+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_13 -> E3 (50.000000)
+2026-01-15T10:34:13.529344+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_13 -> E3 with probability 50.000000
+2026-01-15T10:34:13.529459+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.529654+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_15 (0) -> -E0: 100.000000
+2026-01-15T10:34:13.529768+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_15 -> -E0 (100.000000)
+2026-01-15T10:34:13.529863+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_15 -> -E0 with probability 100.000000
+2026-01-15T10:34:13.529959+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.530048+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_16 (0) -> E1: 100.000000
+2026-01-15T10:34:13.530135+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_16 -> E1 (100.000000)
+2026-01-15T10:34:13.530254+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_16 -> E1 with probability 100.000000
+2026-01-15T10:34:13.530371+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.530465+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_17 (0) -> E3: 100.000000
+2026-01-15T10:34:13.530555+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_17 -> E3 (100.000000)
+2026-01-15T10:34:13.530642+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_17 -> E3 with probability 100.000000
+2026-01-15T10:34:13.530737+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.530827+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_18 (0) -> -E0: 100.000000
+2026-01-15T10:34:13.530912+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_18 -> -E0 (100.000000)
+2026-01-15T10:34:13.530994+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_18 -> -E0 with probability 100.000000
+2026-01-15T10:34:13.531086+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.531171+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_19 (0) -> E2: 100.000000
+2026-01-15T10:34:13.531271+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_19 -> E2 (100.000000)
+2026-01-15T10:34:13.531417+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_19 -> E2 with probability 100.000000
+2026-01-15T10:34:13.531538+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.531632+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_20 (0) -> E3: 100.000000
+2026-01-15T10:34:13.531718+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_20 -> E3 (100.000000)
+2026-01-15T10:34:13.531805+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_20 -> E3 with probability 100.000000
+2026-01-15T10:34:13.531898+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.531984+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_21 (0) -> E1: 100.000000
+2026-01-15T10:34:13.532069+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_21 -> E1 (100.000000)
+2026-01-15T10:34:13.532153+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_21 -> E1 with probability 100.000000
+2026-01-15T10:34:13.532279+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.532387+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_22 (0) -> E2: 100.000000
+2026-01-15T10:34:13.532479+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_22 -> E2 (100.000000)
+2026-01-15T10:34:13.532569+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_22 -> E2 with probability 100.000000
+2026-01-15T10:34:13.532663+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.532751+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_23 (0) -> -E0: 100.000000
+2026-01-15T10:34:13.532835+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_23 -> -E0 (100.000000)
+2026-01-15T10:34:13.532918+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_23 -> -E0 with probability 100.000000
+2026-01-15T10:34:13.533009+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.533093+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_3 (0) -> E3: 100.000000
+2026-01-15T10:34:13.533179+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_3 -> E3 (100.000000)
+2026-01-15T10:34:13.533261+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_3 -> E3 with probability 100.000000
+2026-01-15T10:34:13.533368+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.533497+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_4 (0) -> -E0: 100.000000
+2026-01-15T10:34:13.533637+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_4 -> -E0 (100.000000)
+2026-01-15T10:34:13.533729+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_4 -> -E0 with probability 100.000000
+2026-01-15T10:34:13.533824+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/2 connected to 1 destinations: 50.000000
+2026-01-15T10:34:13.533912+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_5 (0) -> E1: 50.000000
+2026-01-15T10:34:13.533996+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_5 -> E1 (50.000000)
+2026-01-15T10:34:13.534082+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_5 -> E1 with probability 50.000000
+2026-01-15T10:34:13.534175+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 1/2 connected to 1 destinations: 50.000000
+2026-01-15T10:34:13.534301+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_5 (1) -> E1: 50.000000
+2026-01-15T10:34:13.534406+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_5 -> E1 (50.000000)
+2026-01-15T10:34:13.534496+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_5 -> E1 with probability 50.000000
+2026-01-15T10:34:13.534591+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.534679+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_7 (0) -> E2: 100.000000
+2026-01-15T10:34:13.534766+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_7 -> E2 (100.000000)
+2026-01-15T10:34:13.534851+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_7 -> E2 with probability 100.000000
+2026-01-15T10:34:13.534943+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.535032+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_8 (0) -> E3: 100.000000
+2026-01-15T10:34:13.535124+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_8 -> E3 (100.000000)
+2026-01-15T10:34:13.535210+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_8 -> E3 with probability 100.000000
+2026-01-15T10:34:13.535306+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/2 connected to 1 destinations: 50.000000
+2026-01-15T10:34:13.535416+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_9 (0) -> -E0: 50.000000
+2026-01-15T10:34:13.535515+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_9 -> -E0 (50.000000)
+2026-01-15T10:34:13.535606+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_9 -> -E0 with probability 50.000000
+2026-01-15T10:34:13.535715+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 1/2 connected to 1 destinations: 50.000000
+2026-01-15T10:34:13.535809+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_9 (1) -> -E0: 50.000000
+2026-01-15T10:34:13.535895+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_9 -> -E0 (50.000000)
+2026-01-15T10:34:13.535982+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_9 -> -E0 with probability 50.000000
+2026-01-15T10:34:13.536074+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.536163+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_c0 (0) -> :J1_w0: 100.000000
+2026-01-15T10:34:13.536285+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_c0 -> :J1_w0 (100.000000)
+2026-01-15T10:34:13.536394+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_c0 -> :J1_w0 with probability 100.000000
+2026-01-15T10:34:13.536493+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.536584+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_c1 (0) -> :J1_w1: 100.000000
+2026-01-15T10:34:13.536672+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_c1 -> :J1_w1 (100.000000)
+2026-01-15T10:34:13.536756+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_c1 -> :J1_w1 with probability 100.000000
+2026-01-15T10:34:13.536849+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.536935+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_c2 (0) -> :J1_w2: 100.000000
+2026-01-15T10:34:13.537018+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_c2 -> :J1_w2 (100.000000)
+2026-01-15T10:34:13.537104+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_c2 -> :J1_w2 with probability 100.000000
+2026-01-15T10:34:13.537195+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.537279+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_c3 (0) -> :J1_w3: 100.000000
+2026-01-15T10:34:13.537393+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_c3 -> :J1_w3 (100.000000)
+2026-01-15T10:34:13.537503+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_c3 -> :J1_w3 with probability 100.000000
+2026-01-15T10:34:13.537651+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 2 destinations: 50.000000
+2026-01-15T10:34:13.537744+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_w0 (0) -> E1: 50.000000
+2026-01-15T10:34:13.537848+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_w0 -> E1 (50.000000)
+2026-01-15T10:34:13.537940+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_w0 -> E1 with probability 50.000000
+2026-01-15T10:34:13.538029+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 2 destinations: 50.000000
+2026-01-15T10:34:13.538117+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_w0 (0) -> :J1_c3: 50.000000
+2026-01-15T10:34:13.538201+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_w0 -> :J1_c3 (50.000000)
+2026-01-15T10:34:13.538329+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_w0 -> :J1_c3 with probability 50.000000
+2026-01-15T10:34:13.538439+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 2 destinations: 50.000000
+2026-01-15T10:34:13.538535+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_w1 (0) -> -E0: 50.000000
+2026-01-15T10:34:13.538620+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_w1 -> -E0 (50.000000)
+2026-01-15T10:34:13.538703+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_w1 -> -E0 with probability 50.000000
+2026-01-15T10:34:13.538794+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 2 destinations: 50.000000
+2026-01-15T10:34:13.538879+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_w1 (0) -> :J1_c0: 50.000000
+2026-01-15T10:34:13.538962+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_w1 -> :J1_c0 (50.000000)
+2026-01-15T10:34:13.539046+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_w1 -> :J1_c0 with probability 50.000000
+2026-01-15T10:34:13.539134+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 2 destinations: 50.000000
+2026-01-15T10:34:13.539219+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_w2 (0) -> E3: 50.000000
+2026-01-15T10:34:13.539300+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_w2 -> E3 (50.000000)
+2026-01-15T10:34:13.539396+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_w2 -> E3 with probability 50.000000
+2026-01-15T10:34:13.539518+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 2 destinations: 50.000000
+2026-01-15T10:34:13.539623+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_w2 (0) -> :J1_c1: 50.000000
+2026-01-15T10:34:13.539713+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_w2 -> :J1_c1 (50.000000)
+2026-01-15T10:34:13.539801+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_w2 -> :J1_c1 with probability 50.000000
+2026-01-15T10:34:13.539893+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 2 destinations: 50.000000
+2026-01-15T10:34:13.539994+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_w3 (0) -> E2: 50.000000
+2026-01-15T10:34:13.540086+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_w3 -> E2 (50.000000)
+2026-01-15T10:34:13.540171+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_w3 -> E2 with probability 50.000000
+2026-01-15T10:34:13.540288+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 2 destinations: 50.000000
+2026-01-15T10:34:13.540400+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J1_w3 (0) -> :J1_c2: 50.000000
+2026-01-15T10:34:13.540494+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J1_w3 -> :J1_c2 (50.000000)
+2026-01-15T10:34:13.540582+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J1_w3 -> :J1_c2 with probability 50.000000
+2026-01-15T10:34:13.540674+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.540763+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J2_w0 (0) -> -E1: 100.000000
+2026-01-15T10:34:13.540848+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J2_w0 -> -E1 (100.000000)
+2026-01-15T10:34:13.540932+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J2_w0 -> -E1 with probability 100.000000
+2026-01-15T10:34:13.541022+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.541176+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J3_w0 (0) -> -E2: 100.000000
+2026-01-15T10:34:13.541292+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J3_w0 -> -E2 (100.000000)
+2026-01-15T10:34:13.541426+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J3_w0 -> -E2 with probability 100.000000
+2026-01-15T10:34:13.541630+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.541753+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection :J4_w0 (0) -> -E3: 100.000000
+2026-01-15T10:34:13.541848+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection :J4_w0 -> -E3 (100.000000)
+2026-01-15T10:34:13.541938+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for :J4_w0 -> -E3 with probability 100.000000
+2026-01-15T10:34:13.542037+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 1/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.542127+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection E0 (1) -> E1: 16.666667
+2026-01-15T10:34:13.542211+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection E0 -> E1 (16.666667)
+2026-01-15T10:34:13.542348+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for E0 -> E1 with probability 16.666667
+2026-01-15T10:34:13.542464+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 1/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.542583+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection E0 (1) -> E2: 16.666667
+2026-01-15T10:34:13.542686+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection E0 -> E2 (16.666667)
+2026-01-15T10:34:13.542773+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for E0 -> E2 with probability 16.666667
+2026-01-15T10:34:13.542868+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 2/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.542954+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection E0 (2) -> E2: 16.666667
+2026-01-15T10:34:13.543042+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection E0 -> E2 (16.666667)
+2026-01-15T10:34:13.543130+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for E0 -> E2 with probability 16.666667
+2026-01-15T10:34:13.543221+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 2/3 connected to 2 destinations: 16.666667
+2026-01-15T10:34:13.543307+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection E0 (2) -> E3: 16.666667
+2026-01-15T10:34:13.543402+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection E0 -> E3 (16.666667)
+2026-01-15T10:34:13.543510+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for E0 -> E3 with probability 16.666667
+2026-01-15T10:34:13.543607+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/3 connected to 1 destinations: 33.333333
+2026-01-15T10:34:13.543695+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection E0 (0) -> :J1_w0: 33.333333
+2026-01-15T10:34:13.543779+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection E0 -> :J1_w0 (33.333333)
+2026-01-15T10:34:13.543864+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for E0 -> :J1_w0 with probability 33.333333
+2026-01-15T10:34:13.543957+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.544042+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection E1 (0) -> :J2_w0: 100.000000
+2026-01-15T10:34:13.544129+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection E1 -> :J2_w0 (100.000000)
+2026-01-15T10:34:13.544212+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for E1 -> :J2_w0 with probability 100.000000
+2026-01-15T10:34:13.544337+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.544444+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection E2 (0) -> :J3_w0: 100.000000
+2026-01-15T10:34:13.544550+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection E2 -> :J3_w0 (100.000000)
+2026-01-15T10:34:13.544642+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for E2 -> :J3_w0 with probability 100.000000
+2026-01-15T10:34:13.544734+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_weight:87 - SIM: Destination weight for lane 0/1 connected to 1 destinations: 100.000000
+2026-01-15T10:34:13.544824+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.connections:calculate_destination_weight:169 - SIM: Destination weight for connection E3 (0) -> :J4_w0: 100.000000
+2026-01-15T10:34:13.544907+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:from_connections:95 - SIM: Adding connection E3 -> :J4_w0 (100.000000)
+2026-01-15T10:34:13.544989+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:add:32 - SIM: Adding turn definition for E3 -> :J4_w0 with probability 100.000000
+2026-01-15T10:34:13.545081+0700 | INFO   | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:109 - SIM: Converting turn definitions to XML
+2026-01-15T10:34:13.545282+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:110 - SIM: Turn definitions sources number: 40
+2026-01-15T10:34:13.545693+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source -E0
+2026-01-15T10:34:13.545945+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J0_w0 with probability 100.000000
+2026-01-15T10:34:13.546064+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source -E1
+2026-01-15T10:34:13.546181+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination -E0 with probability 16.666667
+2026-01-15T10:34:13.546333+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J1_w3 with probability 33.333333
+2026-01-15T10:34:13.546518+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E2 with probability 16.666667
+2026-01-15T10:34:13.546694+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E3 with probability 33.333333
+2026-01-15T10:34:13.546834+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source -E2
+2026-01-15T10:34:13.546963+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination -E0 with probability 33.333333
+2026-01-15T10:34:13.547086+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J1_w2 with probability 33.333333
+2026-01-15T10:34:13.547250+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E1 with probability 16.666667
+2026-01-15T10:34:13.547426+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E3 with probability 16.666667
+2026-01-15T10:34:13.547564+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source -E3
+2026-01-15T10:34:13.547692+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination -E0 with probability 16.666667
+2026-01-15T10:34:13.547896+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J1_w1 with probability 33.333333
+2026-01-15T10:34:13.548053+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E1 with probability 33.333333
+2026-01-15T10:34:13.549156+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E2 with probability 16.666667
+2026-01-15T10:34:13.549332+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J0_w0
+2026-01-15T10:34:13.549470+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E0 with probability 100.000000
+2026-01-15T10:34:13.549723+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_0
+2026-01-15T10:34:13.549926+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E1 with probability 100.000000
+2026-01-15T10:34:13.550072+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_1
+2026-01-15T10:34:13.550201+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E2 with probability 100.000000
+2026-01-15T10:34:13.550349+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_11
+2026-01-15T10:34:13.550553+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E1 with probability 100.000000
+2026-01-15T10:34:13.550709+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_12
+2026-01-15T10:34:13.550901+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E2 with probability 100.000000
+2026-01-15T10:34:13.551074+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_13
+2026-01-15T10:34:13.551272+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E3 with probability 100.000000
+2026-01-15T10:34:13.551449+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_15
+2026-01-15T10:34:13.551611+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination -E0 with probability 100.000000
+2026-01-15T10:34:13.551758+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_16
+2026-01-15T10:34:13.551885+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E1 with probability 100.000000
+2026-01-15T10:34:13.552012+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_17
+2026-01-15T10:34:13.552137+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E3 with probability 100.000000
+2026-01-15T10:34:13.552233+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_18
+2026-01-15T10:34:13.552367+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination -E0 with probability 100.000000
+2026-01-15T10:34:13.552509+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_19
+2026-01-15T10:34:13.552684+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E2 with probability 100.000000
+2026-01-15T10:34:13.553170+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_20
+2026-01-15T10:34:13.553781+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E3 with probability 100.000000
+2026-01-15T10:34:13.554056+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_21
+2026-01-15T10:34:13.554257+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E1 with probability 100.000000
+2026-01-15T10:34:13.554448+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_22
+2026-01-15T10:34:13.554608+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E2 with probability 100.000000
+2026-01-15T10:34:13.554735+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_23
+2026-01-15T10:34:13.554888+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination -E0 with probability 100.000000
+2026-01-15T10:34:13.555067+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_3
+2026-01-15T10:34:13.555224+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E3 with probability 100.000000
+2026-01-15T10:34:13.555342+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_4
+2026-01-15T10:34:13.555490+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination -E0 with probability 100.000000
+2026-01-15T10:34:13.555610+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_5
+2026-01-15T10:34:13.555756+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E1 with probability 100.000000
+2026-01-15T10:34:13.555875+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_7
+2026-01-15T10:34:13.556020+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E2 with probability 100.000000
+2026-01-15T10:34:13.556136+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_8
+2026-01-15T10:34:13.556315+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E3 with probability 100.000000
+2026-01-15T10:34:13.556519+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_9
+2026-01-15T10:34:13.556891+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination -E0 with probability 100.000000
+2026-01-15T10:34:13.557080+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_c0
+2026-01-15T10:34:13.557288+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J1_w0 with probability 100.000000
+2026-01-15T10:34:13.557461+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_c1
+2026-01-15T10:34:13.557892+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J1_w1 with probability 100.000000
+2026-01-15T10:34:13.558103+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_c2
+2026-01-15T10:34:13.558340+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J1_w2 with probability 100.000000
+2026-01-15T10:34:13.558521+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_c3
+2026-01-15T10:34:13.558724+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J1_w3 with probability 100.000000
+2026-01-15T10:34:13.558899+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_w0
+2026-01-15T10:34:13.559105+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J1_c3 with probability 50.000000
+2026-01-15T10:34:13.559341+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E1 with probability 50.000000
+2026-01-15T10:34:13.559520+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_w1
+2026-01-15T10:34:13.559722+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination -E0 with probability 50.000000
+2026-01-15T10:34:13.559980+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J1_c0 with probability 50.000000
+2026-01-15T10:34:13.560158+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_w2
+2026-01-15T10:34:13.560400+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J1_c1 with probability 50.000000
+2026-01-15T10:34:13.560641+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E3 with probability 50.000000
+2026-01-15T10:34:13.560813+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J1_w3
+2026-01-15T10:34:13.561015+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J1_c2 with probability 50.000000
+2026-01-15T10:34:13.561249+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E2 with probability 50.000000
+2026-01-15T10:34:13.561382+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J2_w0
+2026-01-15T10:34:13.561673+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination -E1 with probability 100.000000
+2026-01-15T10:34:13.561849+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J3_w0
+2026-01-15T10:34:13.562003+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination -E2 with probability 100.000000
+2026-01-15T10:34:13.562118+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source :J4_w0
+2026-01-15T10:34:13.562259+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination -E3 with probability 100.000000
+2026-01-15T10:34:13.562445+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source E0
+2026-01-15T10:34:13.562607+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J1_w0 with probability 33.333333
+2026-01-15T10:34:13.562945+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E1 with probability 16.666667
+2026-01-15T10:34:13.563253+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E2 with probability 33.333333
+2026-01-15T10:34:13.563497+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination E3 with probability 16.666667
+2026-01-15T10:34:13.563745+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source E1
+2026-01-15T10:34:13.563900+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J2_w0 with probability 100.000000
+2026-01-15T10:34:13.563995+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source E2
+2026-01-15T10:34:13.564125+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J3_w0 with probability 100.000000
+2026-01-15T10:34:13.564311+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:120 - SIM: Converting turn definition with source E3
+2026-01-15T10:34:13.564581+0700 | DEBUG  | tshub.sumo_tools.sumo_infos.turndef.turndefinitions:to_xml:127 - SIM: Converting turn definition destination :J4_w0 with probability 100.000000
+2026-01-15T10:34:13.565782+0700 | INFO   | tshub.sumo_tools.generate_route.generate_turn_def:generate_turn_definition:145 - SIM: =>turn definition 生成成功.
+2026-01-15T10:34:13.569224+0700 | INFO   | tshub.sumo_tools.generate_route.generate_turn_def:edit_turn_definition:175 - SIM: =>turn definition 修改成功.
+2026-01-15T10:34:13.570689+0700 | WARNING | tshub.utils.check_folder:check_folder:18 - SIM: 文件夹 /home/hoanganh04/Projects/CoLight/Scenario/1node/./routes- 不存在, 已创建!
+2026-01-15T10:34:13.720779+0700 | INFO   | tshub.sumo_tools.generate_routes:generate_route:169 - SIM: 生成 route 文件成功.

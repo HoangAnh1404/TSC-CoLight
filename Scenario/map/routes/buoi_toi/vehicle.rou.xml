@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-11-20 10:49:56 by Eclipse SUMO jtrrouter Version 1.24.0
+<jtrrouterConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/jtrrouterConfiguration.xsd">
+
+    <input>
+        <net-file value="/home/hoanganh04/Projects/LLM-Assisted-Light/TSCScenario/map/./env/map.net.xml"/>
+        <route-files value="/home/hoanganh04/Projects/LLM-Assisted-Light/TSCScenario/map/./_testflow.trip.xml"/>
+        <turn-ratio-files value="/home/hoanganh04/Projects/LLM-Assisted-Light/TSCScenario/map/./_testflow.turndefs.xml"/>
+    </input>
+
+    <output>
+        <output-file value="/home/hoanganh04/Projects/LLM-Assisted-Light/TSCScenario/map/./routes/buoi_toi/vehicle.rou.xml"/>
+    </output>
+
+    <processing>
+        <randomize-flows value="True"/>
+        <accept-all-destinations value="True"/>
+    </processing>
+
+    <defaults>
+        <departlane value="random"/>
+    </defaults>
+
+    <report>
+        <no-warnings value="true"/>
+    </report>
+
+    <random_number>
+        <seed value="777"/>
+    </random_number>
+
+</jtrrouterConfiguration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="car" length="4.50" minGap="1.00" maxSpeed="11.11" desiredMaxSpeed="11.11" vClass="passenger" color="155,89,182" accel="1.5" tau="1.0"/>
+    <vehicle id="-E5__0__car.0" type="car" depart="3.58" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vType id="motorbike" length="2.00" minGap="0.50" maxSpeed="11.11" desiredMaxSpeed="11.11" vClass="motorcycle" color="yellow" accel="1.5" tau="1.0"/>
+    <vehicle id="E6__0__motorbike.0" type="motorbike" depart="6.54" departLane="random">
+        <route edges="E6 E5"/>
+    </vehicle>
+    <vehicle id="E6__0__car.0" type="car" depart="6.80" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E3__0__motorbike.0" type="motorbike" depart="10.88" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="E4__0__motorbike.0" type="motorbike" depart="11.03" departLane="random">
+        <route edges="E4 -E0 E1"/>
+    </vehicle>
+    <vehicle id="E6__0__car.1" type="car" depart="12.32" departLane="random">
+        <route edges="E6 -E4"/>
+    </vehicle>
+    <vehicle id="-E1__0__car.0" type="car" depart="15.93" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E5__0__motorbike.0" type="motorbike" depart="17.37" departLane="random">
+        <route edges="-E5 -E6"/>
+    </vehicle>
+    <vehicle id="E4__0__car.0" type="car" depart="25.90" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E2__0__motorbike.0" type="motorbike" depart="26.70" departLane="random">
+        <route edges="-E2 E3"/>
+    </vehicle>
+    <vehicle id="-E3__0__car.0" type="car" depart="28.79" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E2__0__motorbike.1" type="motorbike" depart="36.79" departLane="random">
+        <route edges="-E2 E0 E5"/>
+    </vehicle>
+    <vehicle id="-E2__0__motorbike.2" type="motorbike" depart="40.54" departLane="random">
+        <route edges="-E2 E0 -E4"/>
+    </vehicle>
+    <vehicle id="E4__0__car.1" type="car" depart="40.85" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E5__0__motorbike.1" type="motorbike" depart="44.46" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="-E1__0__motorbike.0" type="motorbike" depart="47.92" departLane="random">
+        <route edges="-E1 E2"/>
+    </vehicle>
+    <vehicle id="-E1__0__car.1" type="car" depart="52.13" departLane="random">
+        <route edges="-E1 E2"/>
+    </vehicle>
+    <vehicle id="-E3__0__motorbike.1" type="motorbike" depart="54.94" departLane="random">
+        <route edges="-E3 E0 -E6"/>
+    </vehicle>
+    <vehicle id="E4__1__motorbike.0" type="motorbike" depart="60.84" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="E6__1__car.0" type="car" depart="64.16" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E5__1__motorbike.0" type="motorbike" depart="65.68" departLane="random">
+        <route edges="-E5 -E0 E3"/>
+    </vehicle>
+    <vehicle id="-E2__1__motorbike.0" type="motorbike" depart="67.71" departLane="random">
+        <route edges="-E2 E0 -E6"/>
+    </vehicle>
+    <vehicle id="-E2__1__motorbike.1" type="motorbike" depart="70.82" departLane="random">
+        <route edges="-E2 E3"/>
+    </vehicle>
+    <vehicle id="-E5__1__motorbike.1" type="motorbike" depart="75.68" departLane="random">
+        <route edges="-E5 -E6"/>
+    </vehicle>
+    <vehicle id="E4__1__motorbike.1" type="motorbike" depart="76.75" departLane="random">
+        <route edges="E4 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E1__1__car.0" type="car" depart="79.28" departLane="random">
+        <route edges="-E1 E2"/>
+    </vehicle>
+    <vehicle id="-E1__1__motorbike.0" type="motorbike" depart="80.32" departLane="random">
+        <route edges="-E1 E2"/>
+    </vehicle>
+    <vehicle id="E4__1__motorbike.2" type="motorbike" depart="83.35" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E1__1__car.1" type="car" depart="86.95" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E3__1__motorbike.0" type="motorbike" depart="95.91" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E2__1__motorbike.2" type="motorbike" depart="101.30" departLane="random">
+        <route edges="-E2 E0 -E6"/>
+    </vehicle>
+    <vehicle id="-E5__1__motorbike.2" type="motorbike" depart="106.02" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="-E3__1__motorbike.1" type="motorbike" depart="108.23" departLane="random">
+        <route edges="-E3 E0 -E4"/>
+    </vehicle>
+    <vehicle id="E6__1__motorbike.0" type="motorbike" depart="111.52" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="E6__1__car.1" type="car" depart="113.45" departLane="random">
+        <route edges="E6 -E4"/>
+    </vehicle>
+    <vehicle id="-E3__1__car.0" type="car" depart="116.15" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="E6__2__motorbike.0" type="motorbike" depart="120.03" departLane="random">
+        <route edges="E6 E5"/>
+    </vehicle>
+    <vehicle id="E4__2__motorbike.0" type="motorbike" depart="124.54" departLane="random">
+        <route edges="E4 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E2__2__motorbike.0" type="motorbike" depart="125.99" departLane="random">
+        <route edges="-E2 E0 E5"/>
+    </vehicle>
+    <vehicle id="-E1__2__motorbike.0" type="motorbike" depart="127.95" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E3__2__motorbike.0" type="motorbike" depart="145.22" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E5__2__car.0" type="car" depart="146.23" departLane="random">
+        <route edges="-E5 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E5__2__car.1" type="car" depart="146.40" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="-E2__2__motorbike.1" type="motorbike" depart="148.29" departLane="random">
+        <route edges="-E2 E1"/>
+    </vehicle>
+    <vehicle id="E4__2__motorbike.1" type="motorbike" depart="150.89" departLane="random">
+        <route edges="E4 -E0 E1"/>
+    </vehicle>
+    <vehicle id="-E3__2__motorbike.1" type="motorbike" depart="151.08" departLane="random">
+        <route edges="-E3 E0 E5"/>
+    </vehicle>
+    <vehicle id="-E1__2__car.0" type="car" depart="153.66" departLane="random">
+        <route edges="-E1 E0 -E6"/>
+    </vehicle>
+    <vehicle id="-E5__2__motorbike.0" type="motorbike" depart="159.15" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="-E2__2__motorbike.2" type="motorbike" depart="163.19" departLane="random">
+        <route edges="-E2 E3"/>
+    </vehicle>
+    <vehicle id="-E1__2__motorbike.1" type="motorbike" depart="166.02" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E3__2__motorbike.2" type="motorbike" depart="168.14" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="E6__2__motorbike.1" type="motorbike" depart="169.14" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="E6__2__motorbike.2" type="motorbike" depart="177.89" departLane="random">
+        <route edges="E6 -E0 E3"/>
+    </vehicle>
+    <vehicle id="E4__2__motorbike.2" type="motorbike" depart="179.78" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="E4__3__motorbike.0" type="motorbike" depart="181.54" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="E4__3__car.0" type="car" depart="183.43" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E1__3__motorbike.0" type="motorbike" depart="189.31" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E2__3__motorbike.0" type="motorbike" depart="191.26" departLane="random">
+        <route edges="-E2 E3"/>
+    </vehicle>
+    <vehicle id="E6__3__motorbike.0" type="motorbike" depart="192.41" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="E6__3__motorbike.1" type="motorbike" depart="193.67" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E1__3__car.0" type="car" depart="195.08" departLane="random">
+        <route edges="-E1 E2"/>
+    </vehicle>
+    <vehicle id="-E5__3__motorbike.0" type="motorbike" depart="195.59" departLane="random">
+        <route edges="-E5 -E0 E2"/>
+    </vehicle>
+    <vehicle id="E4__3__car.1" type="car" depart="196.46" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E3__3__motorbike.0" type="motorbike" depart="198.84" departLane="random">
+        <route edges="-E3 E0 -E4"/>
+    </vehicle>
+    <vehicle id="E6__3__motorbike.2" type="motorbike" depart="200.50" departLane="random">
+        <route edges="E6 -E4"/>
+    </vehicle>
+    <vehicle id="-E3__3__motorbike.1" type="motorbike" depart="209.83" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E5__3__car.0" type="car" depart="222.87" departLane="random">
+        <route edges="-E5 -E6"/>
+    </vehicle>
+    <vehicle id="-E3__3__motorbike.2" type="motorbike" depart="223.28" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E5__3__car.1" type="car" depart="225.90" departLane="random">
+        <route edges="-E5 -E6"/>
+    </vehicle>
+    <vehicle id="-E2__3__motorbike.1" type="motorbike" depart="231.42" departLane="random">
+        <route edges="-E2 E0 -E6"/>
+    </vehicle>
+    <vehicle id="-E2__3__motorbike.2" type="motorbike" depart="233.47" departLane="random">
+        <route edges="-E2 E3"/>
+    </vehicle>
+    <vehicle id="-E1__3__motorbike.1" type="motorbike" depart="234.52" departLane="random">
+        <route edges="-E1 E0 -E6"/>
+    </vehicle>
+    <vehicle id="-E1__4__motorbike.0" type="motorbike" depart="243.47" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="E6__4__car.0" type="car" depart="243.60" departLane="random">
+        <route edges="E6 -E4"/>
+    </vehicle>
+    <vehicle id="E4__4__motorbike.0" type="motorbike" depart="248.79" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E2__4__car.0" type="car" depart="248.82" departLane="random">
+        <route edges="-E2 E3"/>
+    </vehicle>
+    <vehicle id="-E1__4__motorbike.1" type="motorbike" depart="256.73" departLane="random">
+        <route edges="-E1 E2"/>
+    </vehicle>
+    <vehicle id="-E5__4__car.0" type="car" depart="258.82" departLane="random">
+        <route edges="-E5 -E0 E3"/>
+    </vehicle>
+    <vehicle id="-E3__4__motorbike.0" type="motorbike" depart="261.15" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E3__4__motorbike.1" type="motorbike" depart="261.25" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="E4__4__motorbike.1" type="motorbike" depart="274.60" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E1__4__motorbike.2" type="motorbike" depart="277.85" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E2__4__car.1" type="car" depart="280.90" departLane="random">
+        <route edges="-E2 E3"/>
+    </vehicle>
+    <vehicle id="E4__4__car.0" type="car" depart="284.11" departLane="random">
+        <route edges="E4 -E6"/>
+    </vehicle>
+    <vehicle id="-E3__4__motorbike.2" type="motorbike" depart="284.49" departLane="random">
+        <route edges="-E3 E0 -E6"/>
+    </vehicle>
+    <vehicle id="E6__4__car.1" type="car" depart="285.63" departLane="random">
+        <route edges="E6 E5"/>
+    </vehicle>
+    <vehicle id="-E2__4__motorbike.0" type="motorbike" depart="285.73" departLane="random">
+        <route edges="-E2 E1"/>
+    </vehicle>
+    <vehicle id="-E5__4__motorbike.0" type="motorbike" depart="288.93" departLane="random">
+        <route edges="-E5 -E0 E1"/>
+    </vehicle>
+    <vehicle id="E6__4__motorbike.0" type="motorbike" depart="291.29" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E5__4__car.1" type="car" depart="294.15" departLane="random">
+        <route edges="-E5 -E6"/>
+    </vehicle>
+    <vehicle id="-E2__5__motorbike.0" type="motorbike" depart="309.26" departLane="random">
+        <route edges="-E2 E0 -E4"/>
+    </vehicle>
+    <vehicle id="-E3__5__motorbike.0" type="motorbike" depart="317.41" departLane="random">
+        <route edges="-E3 E2"/>
+    </vehicle>
+    <vehicle id="-E3__5__motorbike.1" type="motorbike" depart="322.40" departLane="random">
+        <route edges="-E3 E0 -E6"/>
+    </vehicle>
+    <vehicle id="-E3__5__motorbike.2" type="motorbike" depart="324.84" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="E4__5__motorbike.0" type="motorbike" depart="326.74" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E5__5__motorbike.0" type="motorbike" depart="327.54" departLane="random">
+        <route edges="-E5 -E6"/>
+    </vehicle>
+    <vehicle id="-E5__5__motorbike.1" type="motorbike" depart="329.73" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="E6__5__motorbike.0" type="motorbike" depart="331.72" departLane="random">
+        <route edges="E6 -E0 E3"/>
+    </vehicle>
+    <vehicle id="E6__5__car.0" type="car" depart="333.39" departLane="random">
+        <route edges="E6 -E4"/>
+    </vehicle>
+    <vehicle id="-E1__5__car.0" type="car" depart="334.31" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E1__5__car.1" type="car" depart="336.68" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E1__5__motorbike.0" type="motorbike" depart="337.11" departLane="random">
+        <route edges="-E1 E0 E5"/>
+    </vehicle>
+    <vehicle id="E4__5__motorbike.1" type="motorbike" depart="337.26" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="E4__5__motorbike.2" type="motorbike" depart="337.41" departLane="random">
+        <route edges="E4 -E6"/>
+    </vehicle>
+    <vehicle id="E6__5__motorbike.1" type="motorbike" depart="344.76" departLane="random">
+        <route edges="E6 E5"/>
+    </vehicle>
+    <vehicle id="-E5__5__motorbike.2" type="motorbike" depart="352.22" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="-E2__5__motorbike.1" type="motorbike" depart="355.70" departLane="random">
+        <route edges="-E2 E0 E5"/>
+    </vehicle>
+    <vehicle id="-E2__5__motorbike.2" type="motorbike" depart="355.99" departLane="random">
+        <route edges="-E2 E3"/>
+    </vehicle>
+    <vehicle id="-E3__6__motorbike.0" type="motorbike" depart="361.21" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E3__6__car.0" type="car" depart="367.55" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E5__6__motorbike.0" type="motorbike" depart="375.95" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="-E5__6__motorbike.1" type="motorbike" depart="378.20" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="E4__6__motorbike.0" type="motorbike" depart="382.06" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E1__6__car.0" type="car" depart="383.58" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E2__6__motorbike.0" type="motorbike" depart="385.07" departLane="random">
+        <route edges="-E2 E1"/>
+    </vehicle>
+    <vehicle id="E6__6__motorbike.0" type="motorbike" depart="388.08" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="E4__6__car.0" type="car" depart="397.22" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E1__6__motorbike.0" type="motorbike" depart="397.44" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E2__6__motorbike.1" type="motorbike" depart="399.01" departLane="random">
+        <route edges="-E2 E1"/>
+    </vehicle>
+    <vehicle id="-E5__6__car.0" type="car" depart="401.40" departLane="random">
+        <route edges="-E5 -E0 E3"/>
+    </vehicle>
+    <vehicle id="E6__6__car.0" type="car" depart="406.09" departLane="random">
+        <route edges="E6 -E4"/>
+    </vehicle>
+    <vehicle id="E6__6__motorbike.1" type="motorbike" depart="410.50" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E1__6__motorbike.1" type="motorbike" depart="416.58" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E3__6__motorbike.1" type="motorbike" depart="417.53" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E2__6__motorbike.2" type="motorbike" depart="417.56" departLane="random">
+        <route edges="-E2 E3"/>
+    </vehicle>
+    <vehicle id="E4__6__motorbike.1" type="motorbike" depart="419.25" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E5__7__motorbike.0" type="motorbike" depart="422.06" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="E6__7__motorbike.0" type="motorbike" depart="424.42" departLane="random">
+        <route edges="E6 -E4"/>
+    </vehicle>
+    <vehicle id="-E1__7__motorbike.0" type="motorbike" depart="440.24" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E3__7__car.0" type="car" depart="443.13" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E2__7__motorbike.0" type="motorbike" depart="444.16" departLane="random">
+        <route edges="-E2 E1"/>
+    </vehicle>
+    <vehicle id="-E3__7__motorbike.0" type="motorbike" depart="450.66" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="E4__7__motorbike.0" type="motorbike" depart="451.56" departLane="random">
+        <route edges="E4 -E0 E3"/>
+    </vehicle>
+    <vehicle id="-E2__7__motorbike.1" type="motorbike" depart="452.73" departLane="random">
+        <route edges="-E2 E1"/>
+    </vehicle>
+    <vehicle id="E6__7__car.0" type="car" depart="455.06" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E3__7__motorbike.1" type="motorbike" depart="456.77" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="E6__7__car.1" type="car" depart="457.79" departLane="random">
+        <route edges="E6 -E0 E3"/>
+    </vehicle>
+    <vehicle id="-E2__7__motorbike.2" type="motorbike" depart="457.89" departLane="random">
+        <route edges="-E2 E0 E5"/>
+    </vehicle>
+    <vehicle id="-E1__7__motorbike.1" type="motorbike" depart="459.97" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E1__7__motorbike.2" type="motorbike" depart="462.09" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="E4__7__motorbike.1" type="motorbike" depart="467.48" departLane="random">
+        <route edges="E4 -E6"/>
+    </vehicle>
+    <vehicle id="E4__7__car.0" type="car" depart="472.97" departLane="random">
+        <route edges="E4 -E6"/>
+    </vehicle>
+    <vehicle id="-E5__7__car.0" type="car" depart="478.13" departLane="random">
+        <route edges="-E5 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E5__7__motorbike.1" type="motorbike" depart="479.89" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="E4__8__motorbike.0" type="motorbike" depart="489.40" departLane="random">
+        <route edges="E4 -E6"/>
+    </vehicle>
+    <vehicle id="-E3__8__car.0" type="car" depart="490.00" departLane="random">
+        <route edges="-E3 E0 -E6"/>
+    </vehicle>
+    <vehicle id="-E5__8__car.0" type="car" depart="490.39" departLane="random">
+        <route edges="-E5 -E6"/>
+    </vehicle>
+    <vehicle id="-E1__8__car.0" type="car" depart="495.69" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E2__8__motorbike.0" type="motorbike" depart="497.02" departLane="random">
+        <route edges="-E2 E0 -E4"/>
+    </vehicle>
+    <vehicle id="-E5__8__car.1" type="car" depart="500.50" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="E6__8__motorbike.0" type="motorbike" depart="502.48" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E3__8__motorbike.0" type="motorbike" depart="503.93" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="E6__8__motorbike.1" type="motorbike" depart="506.20" departLane="random">
+        <route edges="E6 -E0 E1"/>
+    </vehicle>
+    <vehicle id="E4__8__motorbike.1" type="motorbike" depart="506.47" departLane="random">
+        <route edges="E4 -E6"/>
+    </vehicle>
+    <vehicle id="-E2__8__motorbike.1" type="motorbike" depart="509.95" departLane="random">
+        <route edges="-E2 E0 -E6"/>
+    </vehicle>
+    <vehicle id="-E5__8__motorbike.0" type="motorbike" depart="514.59" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="-E3__8__car.1" type="car" depart="523.02" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E2__8__motorbike.2" type="motorbike" depart="527.89" departLane="random">
+        <route edges="-E2 E0 -E6"/>
+    </vehicle>
+    <vehicle id="-E1__8__motorbike.0" type="motorbike" depart="535.99" departLane="random">
+        <route edges="-E1 E0 E5"/>
+    </vehicle>
+    <vehicle id="E6__8__motorbike.2" type="motorbike" depart="539.77" departLane="random">
+        <route edges="E6 E5"/>
+    </vehicle>
+    <vehicle id="E4__8__car.0" type="car" depart="539.81" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E1__8__motorbike.1" type="motorbike" depart="539.84" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E2__9__car.0" type="car" depart="541.71" departLane="random">
+        <route edges="-E2 E0 -E4"/>
+    </vehicle>
+    <vehicle id="-E5__9__motorbike.0" type="motorbike" depart="546.73" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="-E1__9__car.0" type="car" depart="547.76" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E2__9__motorbike.0" type="motorbike" depart="548.42" departLane="random">
+        <route edges="-E2 E0 -E6"/>
+    </vehicle>
+    <vehicle id="E6__9__motorbike.0" type="motorbike" depart="551.59" departLane="random">
+        <route edges="E6 -E0 E1"/>
+    </vehicle>
+    <vehicle id="-E5__9__motorbike.1" type="motorbike" depart="554.92" departLane="random">
+        <route edges="-E5 -E0 E1"/>
+    </vehicle>
+    <vehicle id="E6__9__motorbike.1" type="motorbike" depart="555.04" departLane="random">
+        <route edges="E6 -E0 E1"/>
+    </vehicle>
+    <vehicle id="-E1__9__motorbike.0" type="motorbike" depart="563.69" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="E6__9__motorbike.2" type="motorbike" depart="566.05" departLane="random">
+        <route edges="E6 E5"/>
+    </vehicle>
+    <vehicle id="E4__9__motorbike.0" type="motorbike" depart="574.15" departLane="random">
+        <route edges="E4 -E0 E2"/>
+    </vehicle>
+    <vehicle id="E4__9__motorbike.1" type="motorbike" depart="576.78" departLane="random">
+        <route edges="E4 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E5__9__motorbike.2" type="motorbike" depart="580.14" departLane="random">
+        <route edges="-E5 -E0 E1"/>
+    </vehicle>
+    <vehicle id="-E3__9__motorbike.0" type="motorbike" depart="583.04" departLane="random">
+        <route edges="-E3 E2"/>
+    </vehicle>
+    <vehicle id="-E3__9__motorbike.1" type="motorbike" depart="586.71" departLane="random">
+        <route edges="-E3 E0 -E6"/>
+    </vehicle>
+    <vehicle id="-E3__9__motorbike.2" type="motorbike" depart="589.36" departLane="random">
+        <route edges="-E3 E2"/>
+    </vehicle>
+    <vehicle id="-E2__9__car.1" type="car" depart="592.05" departLane="random">
+        <route edges="-E2 E0 -E6"/>
+    </vehicle>
+    <vehicle id="E4__9__motorbike.2" type="motorbike" depart="598.70" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E1__9__car.1" type="car" depart="599.99" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="E6__10__motorbike.0" type="motorbike" depart="600.93" departLane="random">
+        <route edges="E6 -E4"/>
+    </vehicle>
+    <vehicle id="-E1__10__car.0" type="car" depart="601.02" departLane="random">
+        <route edges="-E1 E2"/>
+    </vehicle>
+    <vehicle id="-E1__10__motorbike.0" type="motorbike" depart="604.61" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E1__10__motorbike.1" type="motorbike" depart="605.98" departLane="random">
+        <route edges="-E1 E0 -E6"/>
+    </vehicle>
+    <vehicle id="-E5__10__car.0" type="car" depart="617.02" departLane="random">
+        <route edges="-E5 -E0 E3"/>
+    </vehicle>
+    <vehicle id="-E2__10__car.0" type="car" depart="622.54" departLane="random">
+        <route edges="-E2 E0 -E6"/>
+    </vehicle>
+    <vehicle id="E4__10__motorbike.0" type="motorbike" depart="623.79" departLane="random">
+        <route edges="E4 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E3__10__motorbike.0" type="motorbike" depart="623.95" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="E4__10__car.0" type="car" depart="629.77" departLane="random">
+        <route edges="E4 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E3__10__motorbike.1" type="motorbike" depart="634.33" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="E6__10__car.0" type="car" depart="635.51" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E5__10__motorbike.0" type="motorbike" depart="637.00" departLane="random">
+        <route edges="-E5 -E0 E1"/>
+    </vehicle>
+    <vehicle id="E6__10__motorbike.1" type="motorbike" depart="638.52" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E2__10__motorbike.0" type="motorbike" depart="641.20" departLane="random">
+        <route edges="-E2 E0 -E6"/>
+    </vehicle>
+    <vehicle id="E4__10__motorbike.1" type="motorbike" depart="645.21" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E2__10__car.1" type="car" depart="652.20" departLane="random">
+        <route edges="-E2 E0 -E4"/>
+    </vehicle>
+    <vehicle id="-E3__10__motorbike.2" type="motorbike" depart="655.61" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E5__10__motorbike.1" type="motorbike" depart="658.28" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="E6__11__motorbike.0" type="motorbike" depart="663.01" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E5__11__motorbike.0" type="motorbike" depart="664.92" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="E6__11__motorbike.1" type="motorbike" depart="667.15" departLane="random">
+        <route edges="E6 E5"/>
+    </vehicle>
+    <vehicle id="-E3__11__motorbike.0" type="motorbike" depart="673.87" departLane="random">
+        <route edges="-E3 E2"/>
+    </vehicle>
+    <vehicle id="E4__11__car.0" type="car" depart="674.67" departLane="random">
+        <route edges="E4 -E6"/>
+    </vehicle>
+    <vehicle id="-E2__11__car.0" type="car" depart="682.77" departLane="random">
+        <route edges="-E2 E3"/>
+    </vehicle>
+    <vehicle id="-E1__11__motorbike.0" type="motorbike" depart="682.94" departLane="random">
+        <route edges="-E1 E2"/>
+    </vehicle>
+    <vehicle id="-E1__11__motorbike.1" type="motorbike" depart="682.96" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="E4__11__motorbike.0" type="motorbike" depart="683.31" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E2__11__motorbike.0" type="motorbike" depart="686.47" departLane="random">
+        <route edges="-E2 E3"/>
+    </vehicle>
+    <vehicle id="E6__11__motorbike.2" type="motorbike" depart="687.73" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E3__11__motorbike.1" type="motorbike" depart="688.66" departLane="random">
+        <route edges="-E3 E0 E5"/>
+    </vehicle>
+    <vehicle id="E4__11__car.1" type="car" depart="692.15" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E1__11__motorbike.2" type="motorbike" depart="697.15" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E3__11__motorbike.2" type="motorbike" depart="704.65" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E2__11__car.1" type="car" depart="706.42" departLane="random">
+        <route edges="-E2 E0 -E6"/>
+    </vehicle>
+    <vehicle id="-E5__11__motorbike.1" type="motorbike" depart="719.18" departLane="random">
+        <route edges="-E5 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E5__11__motorbike.2" type="motorbike" depart="719.47" departLane="random">
+        <route edges="-E5 -E0 E1"/>
+    </vehicle>
+    <vehicle id="-E3__12__motorbike.0" type="motorbike" depart="720.31" departLane="random">
+        <route edges="-E3 E2"/>
+    </vehicle>
+    <vehicle id="-E1__12__motorbike.0" type="motorbike" depart="727.66" departLane="random">
+        <route edges="-E1 E2"/>
+    </vehicle>
+    <vehicle id="E4__12__motorbike.0" type="motorbike" depart="727.88" departLane="random">
+        <route edges="E4 -E6"/>
+    </vehicle>
+    <vehicle id="-E3__12__car.0" type="car" depart="731.11" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="E4__12__car.0" type="car" depart="735.62" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E5__12__motorbike.0" type="motorbike" depart="737.03" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="-E5__12__motorbike.1" type="motorbike" depart="741.50" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="-E1__12__motorbike.1" type="motorbike" depart="742.70" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="E6__12__motorbike.0" type="motorbike" depart="748.21" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E1__12__car.0" type="car" depart="749.55" departLane="random">
+        <route edges="-E1 E2"/>
+    </vehicle>
+    <vehicle id="E6__12__car.0" type="car" depart="749.63" departLane="random">
+        <route edges="E6 -E4"/>
+    </vehicle>
+    <vehicle id="-E5__12__motorbike.2" type="motorbike" depart="751.33" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="-E2__12__motorbike.0" type="motorbike" depart="751.47" departLane="random">
+        <route edges="-E2 E1"/>
+    </vehicle>
+    <vehicle id="-E2__12__motorbike.1" type="motorbike" depart="752.35" departLane="random">
+        <route edges="-E2 E3"/>
+    </vehicle>
+    <vehicle id="-E2__12__motorbike.2" type="motorbike" depart="758.35" departLane="random">
+        <route edges="-E2 E0 -E6"/>
+    </vehicle>
+    <vehicle id="E4__12__car.1" type="car" depart="764.20" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E3__12__motorbike.1" type="motorbike" depart="767.47" departLane="random">
+        <route edges="-E3 E0 -E4"/>
+    </vehicle>
+    <vehicle id="E6__12__motorbike.1" type="motorbike" depart="776.91" departLane="random">
+        <route edges="E6 -E0 E3"/>
+    </vehicle>
+    <vehicle id="-E1__13__motorbike.0" type="motorbike" depart="781.59" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E5__13__motorbike.0" type="motorbike" depart="783.55" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="-E3__13__motorbike.0" type="motorbike" depart="785.81" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E5__13__motorbike.1" type="motorbike" depart="786.10" departLane="random">
+        <route edges="-E5 -E4"/>
+    </vehicle>
+    <vehicle id="E4__13__car.0" type="car" depart="787.73" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="E4__13__motorbike.0" type="motorbike" depart="789.46" departLane="random">
+        <route edges="E4 -E0 E2"/>
+    </vehicle>
+    <vehicle id="E6__13__motorbike.0" type="motorbike" depart="800.27" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="E4__13__motorbike.1" type="motorbike" depart="804.57" departLane="random">
+        <route edges="E4 -E6"/>
+    </vehicle>
+    <vehicle id="E6__13__car.0" type="car" depart="808.68" departLane="random">
+        <route edges="E6 -E0 E1"/>
+    </vehicle>
+    <vehicle id="-E5__13__motorbike.2" type="motorbike" depart="809.50" departLane="random">
+        <route edges="-E5 -E6"/>
+    </vehicle>
+    <vehicle id="-E2__13__motorbike.0" type="motorbike" depart="810.65" departLane="random">
+        <route edges="-E2 E0 -E6"/>
+    </vehicle>
+    <vehicle id="-E1__13__motorbike.1" type="motorbike" depart="815.89" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E3__13__car.0" type="car" depart="816.02" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E2__13__motorbike.1" type="motorbike" depart="821.23" departLane="random">
+        <route edges="-E2 E1"/>
+    </vehicle>
+    <vehicle id="E6__13__motorbike.1" type="motorbike" depart="833.78" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E2__13__motorbike.2" type="motorbike" depart="834.65" departLane="random">
+        <route edges="-E2 E1"/>
+    </vehicle>
+    <vehicle id="-E1__13__car.0" type="car" depart="835.27" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E3__13__motorbike.1" type="motorbike" depart="838.72" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E2__14__motorbike.0" type="motorbike" depart="841.86" departLane="random">
+        <route edges="-E2 E0 -E6"/>
+    </vehicle>
+    <vehicle id="E6__14__motorbike.0" type="motorbike" depart="844.76" departLane="random">
+        <route edges="E6 E5"/>
+    </vehicle>
+    <vehicle id="-E5__14__motorbike.0" type="motorbike" depart="846.06" departLane="random">
+        <route edges="-E5 -E6"/>
+    </vehicle>
+    <vehicle id="E6__14__motorbike.1" type="motorbike" depart="847.13" departLane="random">
+        <route edges="E6 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E3__14__motorbike.0" type="motorbike" depart="850.15" departLane="random">
+        <route edges="-E3 E0 -E6"/>
+    </vehicle>
+    <vehicle id="E4__14__motorbike.0" type="motorbike" depart="866.83" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E3__14__motorbike.1" type="motorbike" depart="867.30" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="-E1__14__motorbike.0" type="motorbike" depart="867.71" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="-E2__14__motorbike.1" type="motorbike" depart="868.91" departLane="random">
+        <route edges="-E2 E0 -E6"/>
+    </vehicle>
+    <vehicle id="-E5__14__car.0" type="car" depart="871.40" departLane="random">
+        <route edges="-E5 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E1__14__motorbike.1" type="motorbike" depart="873.94" departLane="random">
+        <route edges="-E1 E2"/>
+    </vehicle>
+    <vehicle id="-E5__14__car.1" type="car" depart="878.66" departLane="random">
+        <route edges="-E5 -E0 E2"/>
+    </vehicle>
+    <vehicle id="-E3__14__motorbike.2" type="motorbike" depart="882.20" departLane="random">
+        <route edges="-E3 E1"/>
+    </vehicle>
+    <vehicle id="E4__14__motorbike.1" type="motorbike" depart="885.43" departLane="random">
+        <route edges="E4 E5"/>
+    </vehicle>
+    <vehicle id="-E2__14__motorbike.2" type="motorbike" depart="886.26" departLane="random">
+        <route edges="-E2 E1"/>
+    </vehicle>
+    <vehicle id="-E1__14__motorbike.2" type="motorbike" depart="887.00" departLane="random">
+        <route edges="-E1 E3"/>
+    </vehicle>
+    <vehicle id="E4__14__motorbike.2" type="motorbike" depart="888.66" departLane="random">
+        <route edges="E4 -E0 E2"/>
+    </vehicle>
+    <vehicle id="E6__14__car.0" type="car" depart="898.98" departLane="random">
+        <route edges="E6 E5"/>
+    </vehicle>
+</routes>

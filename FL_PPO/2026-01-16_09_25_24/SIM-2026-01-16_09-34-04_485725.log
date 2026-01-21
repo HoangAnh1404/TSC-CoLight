@@ -1,0 +1,1128 @@
+2026-01-16T09:34:04.485601+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__1__motorbike.1
+2026-01-16T09:34:04.496235+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 66.0 <==
+2026-01-16T09:34:04.499171+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__1__motorbike.0
+2026-01-16T09:34:04.502395+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__1__car.0
+2026-01-16T09:34:04.513612+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 67.0 <==
+2026-01-16T09:34:04.524022+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 68.0 <==
+2026-01-16T09:34:04.535052+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 69.0 <==
+2026-01-16T09:34:04.545853+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 70.0 <==
+2026-01-16T09:34:04.547472+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__0__car.1.
+2026-01-16T09:34:04.556431+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 71.0 <==
+2026-01-16T09:34:04.559948+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__1__motorbike.0
+2026-01-16T09:34:04.570744+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 72.0 <==
+2026-01-16T09:34:04.574547+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__1__car.1
+2026-01-16T09:34:04.585376+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 73.0 <==
+2026-01-16T09:34:04.588541+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__1__motorbike.1
+2026-01-16T09:34:04.590362+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__0__car.2.
+2026-01-16T09:34:04.601330+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 74.0 <==
+2026-01-16T09:34:04.605105+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__1__motorbike.2
+2026-01-16T09:34:04.616205+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 75.0 <==
+2026-01-16T09:34:04.627438+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 76.0 <==
+2026-01-16T09:34:04.631409+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__1__car.2
+2026-01-16T09:34:04.634445+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__1__motorbike.1
+2026-01-16T09:34:04.635332+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__0__motorbike.2.
+2026-01-16T09:34:04.646032+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 77.0 <==
+2026-01-16T09:34:04.649175+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__1__motorbike.2
+2026-01-16T09:34:04.660398+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 78.0 <==
+2026-01-16T09:34:04.663604+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__1__car.0
+2026-01-16T09:34:04.667228+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__1__motorbike.3
+2026-01-16T09:34:04.670415+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__1__motorbike.4
+2026-01-16T09:34:04.681671+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 79.0 <==
+2026-01-16T09:34:04.694293+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 80.0 <==
+2026-01-16T09:34:04.697406+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__1__motorbike.3
+2026-01-16T09:34:04.701178+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__1__motorbike.5
+2026-01-16T09:34:04.712607+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 81.0 <==
+2026-01-16T09:34:04.725571+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 82.0 <==
+2026-01-16T09:34:04.729263+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__1__motorbike.6
+2026-01-16T09:34:04.741184+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 83.0 <==
+2026-01-16T09:34:04.753002+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 84.0 <==
+2026-01-16T09:34:04.755111+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__0__motorbike.1.
+2026-01-16T09:34:04.766148+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 85.0 <==
+2026-01-16T09:34:04.770305+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__1__car.0
+2026-01-16T09:34:04.771544+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__0__car.0.
+2026-01-16T09:34:04.782055+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 86.0 <==
+2026-01-16T09:34:04.783878+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__0__motorbike.0.
+2026-01-16T09:34:04.784157+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__0__motorbike.2.
+2026-01-16T09:34:04.794841+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 87.0 <==
+2026-01-16T09:34:04.796684+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__0__motorbike.3.
+2026-01-16T09:34:04.806880+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 88.0 <==
+2026-01-16T09:34:04.810246+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__1__motorbike.1
+2026-01-16T09:34:04.814179+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__1__car.1
+2026-01-16T09:34:04.815236+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__0__car.1.
+2026-01-16T09:34:04.826487+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 89.0 <==
+2026-01-16T09:34:04.828313+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__0__motorbike.4.
+2026-01-16T09:34:04.828556+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__0__motorbike.5.
+2026-01-16T09:34:04.838491+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 90.0 <==
+2026-01-16T09:34:04.841730+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__1__motorbike.2
+2026-01-16T09:34:04.845717+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__1__motorbike.2
+2026-01-16T09:34:04.857523+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 91.0 <==
+2026-01-16T09:34:04.860461+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__1__car.1
+2026-01-16T09:34:04.862121+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__0__car.2.
+2026-01-16T09:34:04.873129+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 92.0 <==
+2026-01-16T09:34:04.875802+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__1__motorbike.3
+2026-01-16T09:34:04.888317+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 93.0 <==
+2026-01-16T09:34:04.890150+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__0__motorbike.6.
+2026-01-16T09:34:04.900222+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:set_next_phases:45 - SIM: Time: 93.0; Yellow: Action: 0; State: grrrgrrrgrrrgyyyrryr;
+2026-01-16T09:34:04.909157+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 94.0 <==
+2026-01-16T09:34:04.912388+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__1__motorbike.4
+2026-01-16T09:34:04.924347+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 95.0 <==
+2026-01-16T09:34:04.926367+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__0__motorbike.7.
+2026-01-16T09:34:04.937176+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 96.0 <==
+2026-01-16T09:34:04.941069+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:update:60 - SIM: Time 96.0; Yellow -> Green: Phase Index: 2; State: grrrgrrrgGGGgrrrrGrr;
+2026-01-16T09:34:04.950446+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 97.0 <==
+2026-01-16T09:34:04.954279+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__1__car.2
+2026-01-16T09:34:04.966279+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 98.0 <==
+2026-01-16T09:34:04.978196+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 99.0 <==
+2026-01-16T09:34:04.981925+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__1__car.3
+2026-01-16T09:34:04.994387+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 100.0 <==
+2026-01-16T09:34:05.007555+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 101.0 <==
+2026-01-16T09:34:05.010163+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__1__motorbike.5
+2026-01-16T09:34:05.012715+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__1__car.0.
+2026-01-16T09:34:05.023969+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 102.0 <==
+2026-01-16T09:34:05.036271+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 103.0 <==
+2026-01-16T09:34:05.048653+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 104.0 <==
+2026-01-16T09:34:05.052186+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__1__car.2
+2026-01-16T09:34:05.054199+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__1__motorbike.0.
+2026-01-16T09:34:05.065245+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 105.0 <==
+2026-01-16T09:34:05.078093+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 106.0 <==
+2026-01-16T09:34:05.081454+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__1__motorbike.4
+2026-01-16T09:34:05.085217+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__1__motorbike.3
+2026-01-16T09:34:05.096815+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 107.0 <==
+2026-01-16T09:34:05.110144+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 108.0 <==
+2026-01-16T09:34:05.113518+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__1__car.3
+2026-01-16T09:34:05.126840+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 109.0 <==
+2026-01-16T09:34:05.131000+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__1__motorbike.4
+2026-01-16T09:34:05.142868+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 110.0 <==
+2026-01-16T09:34:05.156093+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 111.0 <==
+2026-01-16T09:34:05.158636+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__1__car.1
+2026-01-16T09:34:05.173305+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 112.0 <==
+2026-01-16T09:34:05.177213+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__1__car.3
+2026-01-16T09:34:05.190360+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 113.0 <==
+2026-01-16T09:34:05.194051+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__1__motorbike.5
+2026-01-16T09:34:05.197602+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__1__motorbike.5
+2026-01-16T09:34:05.211243+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 114.0 <==
+2026-01-16T09:34:05.225187+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 115.0 <==
+2026-01-16T09:34:05.228416+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__1__motorbike.6
+2026-01-16T09:34:05.232502+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__1__car.4
+2026-01-16T09:34:05.245340+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 116.0 <==
+2026-01-16T09:34:05.248560+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__1__car.2
+2026-01-16T09:34:05.263341+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 117.0 <==
+2026-01-16T09:34:05.265423+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__0__motorbike.4.
+2026-01-16T09:34:05.277345+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 118.0 <==
+2026-01-16T09:34:05.291557+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 119.0 <==
+2026-01-16T09:34:05.295249+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__1__motorbike.6
+2026-01-16T09:34:05.297758+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__0__motorbike.0.
+2026-01-16T09:34:05.297990+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__0__motorbike.2.
+2026-01-16T09:34:05.298199+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__0__car.1.
+2026-01-16T09:34:05.310243+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 120.0 <==
+2026-01-16T09:34:05.323516+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 121.0 <==
+2026-01-16T09:34:05.326928+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__1__motorbike.7
+2026-01-16T09:34:05.329217+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__0__motorbike.1.
+2026-01-16T09:34:05.329448+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__0__motorbike.3.
+2026-01-16T09:34:05.329661+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__1__car.0.
+2026-01-16T09:34:05.341726+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 122.0 <==
+2026-01-16T09:34:05.345551+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__2__motorbike.0
+2026-01-16T09:34:05.358366+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 123.0 <==
+2026-01-16T09:34:05.361059+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__2__motorbike.0
+2026-01-16T09:34:05.363054+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__0__car.0.
+2026-01-16T09:34:05.375440+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 124.0 <==
+2026-01-16T09:34:05.379308+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__2__car.0
+2026-01-16T09:34:05.391894+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 125.0 <==
+2026-01-16T09:34:05.394919+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__2__motorbike.1
+2026-01-16T09:34:05.397418+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__0__motorbike.5.
+2026-01-16T09:34:05.397668+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__0__motorbike.8.
+2026-01-16T09:34:05.397877+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__1__motorbike.3.
+2026-01-16T09:34:05.409302+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 126.0 <==
+2026-01-16T09:34:05.411393+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__0__motorbike.6.
+2026-01-16T09:34:05.421593+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:set_next_phases:45 - SIM: Time: 126.0; Yellow: Action: 0; State: grrrgrrrgyyygrrrryrr;
+2026-01-16T09:34:05.431704+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 127.0 <==
+2026-01-16T09:34:05.434876+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__2__motorbike.2
+2026-01-16T09:34:05.437305+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__0__motorbike.7.
+2026-01-16T09:34:05.448707+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 128.0 <==
+2026-01-16T09:34:05.450637+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__1__motorbike.0.
+2026-01-16T09:34:05.450924+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__1__motorbike.1.
+2026-01-16T09:34:05.462124+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 129.0 <==
+2026-01-16T09:34:05.466158+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:update:60 - SIM: Time 129.0; Yellow -> Green: Phase Index: 3; State: grrrgGGGgrrrgrrrGrrr;
+2026-01-16T09:34:05.475858+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 130.0 <==
+2026-01-16T09:34:05.479118+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__2__motorbike.0
+2026-01-16T09:34:05.482126+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__2__motorbike.1
+2026-01-16T09:34:05.483882+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__1__motorbike.2.
+2026-01-16T09:34:05.495162+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 131.0 <==
+2026-01-16T09:34:05.508886+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 132.0 <==
+2026-01-16T09:34:05.510804+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__1__car.1.
+2026-01-16T09:34:05.522473+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 133.0 <==
+2026-01-16T09:34:05.535649+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 134.0 <==
+2026-01-16T09:34:05.549598+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 135.0 <==
+2026-01-16T09:34:05.563529+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 136.0 <==
+2026-01-16T09:34:05.566425+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__2__motorbike.0
+2026-01-16T09:34:05.570175+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__2__car.0
+2026-01-16T09:34:05.583160+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 137.0 <==
+2026-01-16T09:34:05.597458+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 138.0 <==
+2026-01-16T09:34:05.601198+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__2__motorbike.1
+2026-01-16T09:34:05.614855+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 139.0 <==
+2026-01-16T09:34:05.619159+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__2__motorbike.1
+2026-01-16T09:34:05.631624+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 140.0 <==
+2026-01-16T09:34:05.646233+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 141.0 <==
+2026-01-16T09:34:05.650443+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__2__motorbike.2
+2026-01-16T09:34:05.664809+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 142.0 <==
+2026-01-16T09:34:05.667220+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__1__car.2.
+2026-01-16T09:34:05.679008+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 143.0 <==
+2026-01-16T09:34:05.693334+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 144.0 <==
+2026-01-16T09:34:05.695501+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__1__motorbike.4.
+2026-01-16T09:34:05.707756+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 145.0 <==
+2026-01-16T09:34:05.711867+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__2__motorbike.2
+2026-01-16T09:34:05.724991+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 146.0 <==
+2026-01-16T09:34:05.728095+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__2__motorbike.2
+2026-01-16T09:34:05.741874+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 147.0 <==
+2026-01-16T09:34:05.745038+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__2__motorbike.3
+2026-01-16T09:34:05.748616+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__2__car.1
+2026-01-16T09:34:05.762535+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 148.0 <==
+2026-01-16T09:34:05.776259+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 149.0 <==
+2026-01-16T09:34:05.778736+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__0__car.0.
+2026-01-16T09:34:05.790884+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 150.0 <==
+2026-01-16T09:34:05.795064+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__2__motorbike.3
+2026-01-16T09:34:05.808597+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 151.0 <==
+2026-01-16T09:34:05.811048+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__1__motorbike.2.
+2026-01-16T09:34:05.823395+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 152.0 <==
+2026-01-16T09:34:05.826572+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__2__car.0
+2026-01-16T09:34:05.828735+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__0__motorbike.0.
+2026-01-16T09:34:05.841149+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 153.0 <==
+2026-01-16T09:34:05.844309+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__2__motorbike.4
+2026-01-16T09:34:05.847882+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__2__car.2
+2026-01-16T09:34:05.851446+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__2__car.1
+2026-01-16T09:34:05.852485+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__0__motorbike.5.
+2026-01-16T09:34:05.865036+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 154.0 <==
+2026-01-16T09:34:05.868768+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__2__motorbike.4
+2026-01-16T09:34:05.870206+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__0__motorbike.2.
+2026-01-16T09:34:05.870414+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__0__motorbike.3.
+2026-01-16T09:34:05.870723+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__1__motorbike.3.
+2026-01-16T09:34:05.883239+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 155.0 <==
+2026-01-16T09:34:05.886847+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__2__motorbike.5
+2026-01-16T09:34:05.890454+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__2__motorbike.3
+2026-01-16T09:34:05.903217+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 156.0 <==
+2026-01-16T09:34:05.907780+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__2__car.3
+2026-01-16T09:34:05.908988+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__0__motorbike.1.
+2026-01-16T09:34:05.909219+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__1__car.2.
+2026-01-16T09:34:05.921674+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 157.0 <==
+2026-01-16T09:34:05.924209+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__1__motorbike.4.
+2026-01-16T09:34:05.937056+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 158.0 <==
+2026-01-16T09:34:05.941873+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__2__car.2
+2026-01-16T09:34:05.955241+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 159.0 <==
+2026-01-16T09:34:05.958343+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__2__motorbike.3
+2026-01-16T09:34:05.960577+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__0__car.1.
+2026-01-16T09:34:05.960844+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__1__motorbike.6.
+2026-01-16T09:34:05.961032+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__1__car.3.
+2026-01-16T09:34:05.971600+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:set_next_phases:36 - SIM: Time: 159.0; Keep: Action: 1; Phase Index: 3; State: grrrgGGGgrrrgrrrGrrr;
+2026-01-16T09:34:05.982004+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 160.0 <==
+2026-01-16T09:34:05.984171+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__0__car.2.
+2026-01-16T09:34:05.984464+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__1__motorbike.1.
+2026-01-16T09:34:05.997628+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 161.0 <==
+2026-01-16T09:34:06.001392+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__2__motorbike.5
+2026-01-16T09:34:06.004585+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__2__motorbike.4
+2026-01-16T09:34:06.008800+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__2__motorbike.4
+2026-01-16T09:34:06.023283+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 162.0 <==
+2026-01-16T09:34:06.025917+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__0__motorbike.4.
+2026-01-16T09:34:06.038096+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 163.0 <==
+2026-01-16T09:34:06.040549+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__0__motorbike.7.
+2026-01-16T09:34:06.040865+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__1__motorbike.0.
+2026-01-16T09:34:06.054047+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 164.0 <==
+2026-01-16T09:34:06.057667+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__2__car.0
+2026-01-16T09:34:06.062634+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__2__motorbike.5
+2026-01-16T09:34:06.063923+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__0__motorbike.6.
+2026-01-16T09:34:06.076864+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 165.0 <==
+2026-01-16T09:34:06.080523+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__2__car.1
+2026-01-16T09:34:06.085119+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__2__motorbike.5
+2026-01-16T09:34:06.100099+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 166.0 <==
+2026-01-16T09:34:06.103394+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__2__motorbike.6
+2026-01-16T09:34:06.107604+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__2__motorbike.6
+2026-01-16T09:34:06.122191+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 167.0 <==
+2026-01-16T09:34:06.124491+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__1__car.0.
+2026-01-16T09:34:06.136989+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 168.0 <==
+2026-01-16T09:34:06.140264+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__2__car.2
+2026-01-16T09:34:06.143107+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__1__car.1.
+2026-01-16T09:34:06.157245+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 169.0 <==
+2026-01-16T09:34:06.161049+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__2__car.1
+2026-01-16T09:34:06.164381+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__2__motorbike.7
+2026-01-16T09:34:06.179676+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 170.0 <==
+2026-01-16T09:34:06.182070+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__1__motorbike.5.
+2026-01-16T09:34:06.194906+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 171.0 <==
+2026-01-16T09:34:06.198890+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__2__motorbike.6
+2026-01-16T09:34:06.213179+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 172.0 <==
+2026-01-16T09:34:06.216845+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__2__car.3
+2026-01-16T09:34:06.219358+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__2__motorbike.0.
+2026-01-16T09:34:06.232597+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 173.0 <==
+2026-01-16T09:34:06.247345+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 174.0 <==
+2026-01-16T09:34:06.261843+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 175.0 <==
+2026-01-16T09:34:06.265402+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__2__motorbike.8
+2026-01-16T09:34:06.280416+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 176.0 <==
+2026-01-16T09:34:06.295358+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 177.0 <==
+2026-01-16T09:34:06.309995+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 178.0 <==
+2026-01-16T09:34:06.312262+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__2__motorbike.1.
+2026-01-16T09:34:06.325436+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 179.0 <==
+2026-01-16T09:34:06.329161+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__2__motorbike.7
+2026-01-16T09:34:06.330908+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__2__motorbike.2.
+2026-01-16T09:34:06.343805+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 180.0 <==
+2026-01-16T09:34:06.347146+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__2__motorbike.6
+2026-01-16T09:34:06.362402+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 181.0 <==
+2026-01-16T09:34:06.377585+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 182.0 <==
+2026-01-16T09:34:06.381299+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__3__motorbike.0
+2026-01-16T09:34:06.384966+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__3__motorbike.0
+2026-01-16T09:34:06.386675+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__2__car.0.
+2026-01-16T09:34:06.400225+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 183.0 <==
+2026-01-16T09:34:06.403481+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__3__motorbike.1
+2026-01-16T09:34:06.418862+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 184.0 <==
+2026-01-16T09:34:06.421171+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__2__car.1.
+2026-01-16T09:34:06.434466+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 185.0 <==
+2026-01-16T09:34:06.438830+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__3__motorbike.0
+2026-01-16T09:34:06.453513+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 186.0 <==
+2026-01-16T09:34:06.455922+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__2__motorbike.3.
+2026-01-16T09:34:06.472196+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 187.0 <==
+2026-01-16T09:34:06.476087+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__3__motorbike.0
+2026-01-16T09:34:06.491531+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 188.0 <==
+2026-01-16T09:34:06.507194+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 189.0 <==
+2026-01-16T09:34:06.519864+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:set_next_phases:45 - SIM: Time: 189.0; Yellow: Action: 0; State: grrrgyyygrrrgrrryrrr;
+2026-01-16T09:34:06.532587+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 190.0 <==
+2026-01-16T09:34:06.536057+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__3__car.0
+2026-01-16T09:34:06.539335+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__3__motorbike.1
+2026-01-16T09:34:06.554052+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 191.0 <==
+2026-01-16T09:34:06.557626+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__3__motorbike.2
+2026-01-16T09:34:06.561143+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__3__motorbike.1
+2026-01-16T09:34:06.562964+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__2__car.2.
+2026-01-16T09:34:06.577068+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 192.0 <==
+2026-01-16T09:34:06.579339+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__2__motorbike.5.
+2026-01-16T09:34:06.581781+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:update:60 - SIM: Time 192.0; Yellow -> Green: Phase Index: 0; State: gGGGgrrrgrrrgrrrrrrG;
+2026-01-16T09:34:06.594173+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 193.0 <==
+2026-01-16T09:34:06.610183+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 194.0 <==
+2026-01-16T09:34:06.626167+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 195.0 <==
+2026-01-16T09:34:06.629929+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__3__motorbike.1
+2026-01-16T09:34:06.645485+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 196.0 <==
+2026-01-16T09:34:06.648087+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__2__motorbike.4.
+2026-01-16T09:34:06.666102+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 197.0 <==
+2026-01-16T09:34:06.682996+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 198.0 <==
+2026-01-16T09:34:06.687047+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__3__motorbike.2
+2026-01-16T09:34:06.704075+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 199.0 <==
+2026-01-16T09:34:06.707477+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__3__motorbike.3
+2026-01-16T09:34:06.723549+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 200.0 <==
+2026-01-16T09:34:06.727880+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__3__motorbike.2
+2026-01-16T09:34:06.742350+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 201.0 <==
+2026-01-16T09:34:06.745597+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__3__motorbike.3
+2026-01-16T09:34:06.748531+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__3__motorbike.4
+2026-01-16T09:34:06.764975+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 202.0 <==
+2026-01-16T09:34:06.792394+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 203.0 <==
+2026-01-16T09:34:06.796129+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__3__car.1
+2026-01-16T09:34:06.812511+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 204.0 <==
+2026-01-16T09:34:06.828771+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 205.0 <==
+2026-01-16T09:34:06.832262+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__3__motorbike.5
+2026-01-16T09:34:06.848607+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 206.0 <==
+2026-01-16T09:34:06.852291+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__3__car.2
+2026-01-16T09:34:06.868714+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 207.0 <==
+2026-01-16T09:34:06.872228+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__3__motorbike.6
+2026-01-16T09:34:06.889765+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 208.0 <==
+2026-01-16T09:34:06.893612+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__3__motorbike.2
+2026-01-16T09:34:06.910549+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 209.0 <==
+2026-01-16T09:34:06.927570+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 210.0 <==
+2026-01-16T09:34:06.945239+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 211.0 <==
+2026-01-16T09:34:06.962810+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 212.0 <==
+2026-01-16T09:34:06.966443+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__3__car.0
+2026-01-16T09:34:06.968877+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__0__car.3.
+2026-01-16T09:34:06.984558+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 213.0 <==
+2026-01-16T09:34:06.987289+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__2__motorbike.2.
+2026-01-16T09:34:07.002852+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 214.0 <==
+2026-01-16T09:34:07.020592+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 215.0 <==
+2026-01-16T09:34:07.024342+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__3__motorbike.4
+2026-01-16T09:34:07.040820+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 216.0 <==
+2026-01-16T09:34:07.045212+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__3__motorbike.3
+2026-01-16T09:34:07.046206+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__0__motorbike.3.
+2026-01-16T09:34:07.046414+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__1__motorbike.1.
+2026-01-16T09:34:07.063941+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 217.0 <==
+2026-01-16T09:34:07.068706+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__3__motorbike.4
+2026-01-16T09:34:07.069908+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__0__motorbike.5.
+2026-01-16T09:34:07.084948+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 218.0 <==
+2026-01-16T09:34:07.087701+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__0__car.4.
+2026-01-16T09:34:07.102031+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 219.0 <==
+2026-01-16T09:34:07.106395+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__3__car.0
+2026-01-16T09:34:07.109964+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__3__motorbike.5
+2026-01-16T09:34:07.111153+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__0__motorbike.4.
+2026-01-16T09:34:07.111374+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__1__motorbike.0.
+2026-01-16T09:34:07.111553+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__1__car.0.
+2026-01-16T09:34:07.126262+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 220.0 <==
+2026-01-16T09:34:07.128815+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__1__motorbike.2.
+2026-01-16T09:34:07.143450+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 221.0 <==
+2026-01-16T09:34:07.147151+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__3__motorbike.5
+2026-01-16T09:34:07.163002+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 222.0 <==
+2026-01-16T09:34:07.166867+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__3__motorbike.3
+2026-01-16T09:34:07.168421+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__1__car.1.
+2026-01-16T09:34:07.181014+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:set_next_phases:45 - SIM: Time: 222.0; Yellow: Action: 0; State: gyyygrrrgrrrgrrrrrry;
+2026-01-16T09:34:07.194835+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 223.0 <==
+2026-01-16T09:34:07.197523+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__1__car.2.
+2026-01-16T09:34:07.211512+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 224.0 <==
+2026-01-16T09:34:07.214040+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__3__motorbike.0.
+2026-01-16T09:34:07.228311+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 225.0 <==
+2026-01-16T09:34:07.231719+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__3__motorbike.7
+2026-01-16T09:34:07.233813+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__1__motorbike.3.
+2026-01-16T09:34:07.236390+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:update:60 - SIM: Time 225.0; Yellow -> Green: Phase Index: 1; State: grrrgrrrgrrrgGGGrrGr;
+2026-01-16T09:34:07.249397+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 226.0 <==
+2026-01-16T09:34:07.253621+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__3__car.3
+2026-01-16T09:34:07.257338+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__3__motorbike.6
+2026-01-16T09:34:07.258442+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__1__motorbike.4.
+2026-01-16T09:34:07.273730+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 227.0 <==
+2026-01-16T09:34:07.276435+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__1__car.3.
+2026-01-16T09:34:07.290795+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 228.0 <==
+2026-01-16T09:34:07.294770+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__3__motorbike.4
+2026-01-16T09:34:07.297977+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__3__motorbike.7
+2026-01-16T09:34:07.299093+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__3__car.0.
+2026-01-16T09:34:07.299314+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__3__motorbike.1.
+2026-01-16T09:34:07.313593+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 229.0 <==
+2026-01-16T09:34:07.316260+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__1__motorbike.5.
+2026-01-16T09:34:07.330710+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 230.0 <==
+2026-01-16T09:34:07.334088+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__3__car.1
+2026-01-16T09:34:07.350717+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 231.0 <==
+2026-01-16T09:34:07.354507+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__3__car.4
+2026-01-16T09:34:07.356102+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__1__car.4.
+2026-01-16T09:34:07.370628+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 232.0 <==
+2026-01-16T09:34:07.374425+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__3__motorbike.6
+2026-01-16T09:34:07.390539+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 233.0 <==
+2026-01-16T09:34:07.394607+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__3__motorbike.7
+2026-01-16T09:34:07.397770+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__3__motorbike.5
+2026-01-16T09:34:07.401052+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__3__motorbike.8
+2026-01-16T09:34:07.402192+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__2__motorbike.0.
+2026-01-16T09:34:07.417265+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 234.0 <==
+2026-01-16T09:34:07.434085+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 235.0 <==
+2026-01-16T09:34:07.438265+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__3__car.2
+2026-01-16T09:34:07.441783+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__3__car.0
+2026-01-16T09:34:07.444751+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__3__motorbike.8
+2026-01-16T09:34:07.446311+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__2__car.0.
+2026-01-16T09:34:07.461104+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 236.0 <==
+2026-01-16T09:34:07.465822+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__3__motorbike.9
+2026-01-16T09:34:07.466981+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__2__motorbike.1.
+2026-01-16T09:34:07.483037+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 237.0 <==
+2026-01-16T09:34:07.500428+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 238.0 <==
+2026-01-16T09:34:07.517737+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 239.0 <==
+2026-01-16T09:34:07.521503+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__3__car.1
+2026-01-16T09:34:07.523437+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__2__car.1.
+2026-01-16T09:34:07.538490+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 240.0 <==
+2026-01-16T09:34:07.541325+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__2__motorbike.3.
+2026-01-16T09:34:07.556373+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 241.0 <==
+2026-01-16T09:34:07.573207+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 242.0 <==
+2026-01-16T09:34:07.577502+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__4__car.0
+2026-01-16T09:34:07.593721+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 243.0 <==
+2026-01-16T09:34:07.597567+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__4__car.0
+2026-01-16T09:34:07.599056+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__2__car.2.
+2026-01-16T09:34:07.614568+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 244.0 <==
+2026-01-16T09:34:07.632253+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 245.0 <==
+2026-01-16T09:34:07.649656+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 246.0 <==
+2026-01-16T09:34:07.653695+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__4__car.1
+2026-01-16T09:34:07.655280+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__1__motorbike.3.
+2026-01-16T09:34:07.672948+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 247.0 <==
+2026-01-16T09:34:07.676931+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__4__car.2
+2026-01-16T09:34:07.678750+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__1__motorbike.4.
+2026-01-16T09:34:07.695161+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 248.0 <==
+2026-01-16T09:34:07.698182+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__1__motorbike.2.
+2026-01-16T09:34:07.715307+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 249.0 <==
+2026-01-16T09:34:07.717894+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__1__motorbike.1.
+2026-01-16T09:34:07.718161+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__2__motorbike.1.
+2026-01-16T09:34:07.733704+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 250.0 <==
+2026-01-16T09:34:07.736288+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__2__motorbike.2.
+2026-01-16T09:34:07.750941+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 251.0 <==
+2026-01-16T09:34:07.754463+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__4__motorbike.0
+2026-01-16T09:34:07.756676+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__1__car.2.
+2026-01-16T09:34:07.756919+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__1__motorbike.7.
+2026-01-16T09:34:07.757104+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__2__motorbike.5.
+2026-01-16T09:34:07.771243+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 252.0 <==
+2026-01-16T09:34:07.773641+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__1__motorbike.5.
+2026-01-16T09:34:07.773888+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__2__motorbike.3.
+2026-01-16T09:34:07.786849+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 253.0 <==
+2026-01-16T09:34:07.790361+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__4__car.3
+2026-01-16T09:34:07.791817+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__1__motorbike.6.
+2026-01-16T09:34:07.792078+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__2__motorbike.4.
+2026-01-16T09:34:07.805485+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 254.0 <==
+2026-01-16T09:34:07.807673+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__1__car.1.
+2026-01-16T09:34:07.807933+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__3__motorbike.0.
+2026-01-16T09:34:07.820927+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 255.0 <==
+2026-01-16T09:34:07.823056+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__2__motorbike.0.
+2026-01-16T09:34:07.823309+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__3__motorbike.4.
+2026-01-16T09:34:07.833573+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:set_next_phases:45 - SIM: Time: 255.0; Yellow: Action: 0; State: grrrgrrrgrrrgyyyrryr;
+2026-01-16T09:34:07.845376+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 256.0 <==
+2026-01-16T09:34:07.847536+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__2__car.0.
+2026-01-16T09:34:07.860347+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 257.0 <==
+2026-01-16T09:34:07.863666+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__4__motorbike.0
+2026-01-16T09:34:07.877486+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 258.0 <==
+2026-01-16T09:34:07.879565+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__2__car.1.
+2026-01-16T09:34:07.882054+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:update:60 - SIM: Time 258.0; Yellow -> Green: Phase Index: 2; State: grrrgrrrgGGGgrrrrGrr;
+2026-01-16T09:34:07.893112+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 259.0 <==
+2026-01-16T09:34:07.895854+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__4__motorbike.1
+2026-01-16T09:34:07.899741+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__4__motorbike.0
+2026-01-16T09:34:07.913849+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 260.0 <==
+2026-01-16T09:34:07.916025+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__2__car.2.
+2026-01-16T09:34:07.929460+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 261.0 <==
+2026-01-16T09:34:07.944434+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 262.0 <==
+2026-01-16T09:34:07.948400+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__4__car.0
+2026-01-16T09:34:07.949413+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__2__car.3.
+2026-01-16T09:34:07.962019+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 263.0 <==
+2026-01-16T09:34:07.964304+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__2__motorbike.6.
+2026-01-16T09:34:07.964555+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__3__motorbike.1.
+2026-01-16T09:34:07.977103+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 264.0 <==
+2026-01-16T09:34:07.979969+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__4__motorbike.2
+2026-01-16T09:34:07.983870+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__4__car.4
+2026-01-16T09:34:07.987786+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__4__car.1
+2026-01-16T09:34:07.990883+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__4__motorbike.0
+2026-01-16T09:34:07.992100+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__3__motorbike.2.
+2026-01-16T09:34:08.004975+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 265.0 <==
+2026-01-16T09:34:08.008883+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__4__motorbike.1
+2026-01-16T09:34:08.011505+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__4__motorbike.2
+2026-01-16T09:34:08.012848+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__3__motorbike.5.
+2026-01-16T09:34:08.013067+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__3__motorbike.6.
+2026-01-16T09:34:08.028368+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 266.0 <==
+2026-01-16T09:34:08.031137+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__4__motorbike.3
+2026-01-16T09:34:08.033628+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__3__motorbike.3.
+2026-01-16T09:34:08.048702+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 267.0 <==
+2026-01-16T09:34:08.053546+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__4__motorbike.1
+2026-01-16T09:34:08.069689+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 268.0 <==
+2026-01-16T09:34:08.073744+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__4__motorbike.1
+2026-01-16T09:34:08.075856+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__3__car.0.
+2026-01-16T09:34:08.091286+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 269.0 <==
+2026-01-16T09:34:08.094242+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__4__motorbike.4
+2026-01-16T09:34:08.097105+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__3__motorbike.7.
+2026-01-16T09:34:08.115208+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 270.0 <==
+2026-01-16T09:34:08.134818+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 271.0 <==
+2026-01-16T09:34:08.138001+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__4__motorbike.5
+2026-01-16T09:34:08.141883+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__4__car.1
+2026-01-16T09:34:08.145425+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__4__car.2
+2026-01-16T09:34:08.160250+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 272.0 <==
+2026-01-16T09:34:08.162801+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__3__car.1.
+2026-01-16T09:34:08.178251+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 273.0 <==
+2026-01-16T09:34:08.182536+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__4__car.3
+2026-01-16T09:34:08.201430+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 274.0 <==
+2026-01-16T09:34:08.221351+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 275.0 <==
+2026-01-16T09:34:08.224155+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__3__car.2.
+2026-01-16T09:34:08.239028+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 276.0 <==
+2026-01-16T09:34:08.244076+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__4__motorbike.2
+2026-01-16T09:34:08.249511+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__4__motorbike.3
+2026-01-16T09:34:08.267500+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 277.0 <==
+2026-01-16T09:34:08.272453+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__4__motorbike.2
+2026-01-16T09:34:08.292249+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 278.0 <==
+2026-01-16T09:34:08.297324+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__4__motorbike.3
+2026-01-16T09:34:08.302794+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__4__motorbike.4
+2026-01-16T09:34:08.323470+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 279.0 <==
+2026-01-16T09:34:08.327710+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__4__motorbike.6
+2026-01-16T09:34:08.333423+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__4__motorbike.7
+2026-01-16T09:34:08.340559+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__4__motorbike.3
+2026-01-16T09:34:08.341884+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__2__car.0.
+2026-01-16T09:34:08.365253+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 280.0 <==
+2026-01-16T09:34:08.370971+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__4__motorbike.4
+2026-01-16T09:34:08.389411+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 281.0 <==
+2026-01-16T09:34:08.392669+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__2__motorbike.3.
+2026-01-16T09:34:08.393017+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__2__motorbike.5.
+2026-01-16T09:34:08.412774+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 282.0 <==
+2026-01-16T09:34:08.415373+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__3__motorbike.1.
+2026-01-16T09:34:08.432453+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 283.0 <==
+2026-01-16T09:34:08.436268+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__4__car.5
+2026-01-16T09:34:08.441725+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__4__car.4
+2026-01-16T09:34:08.443384+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__1__motorbike.5.
+2026-01-16T09:34:08.461652+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 284.0 <==
+2026-01-16T09:34:08.465106+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__1__car.3.
+2026-01-16T09:34:08.465566+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__2__motorbike.7.
+2026-01-16T09:34:08.483406+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 285.0 <==
+2026-01-16T09:34:08.487031+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__2__motorbike.0.
+2026-01-16T09:34:08.487569+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__2__motorbike.4.
+2026-01-16T09:34:08.488069+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__3__motorbike.6.
+2026-01-16T09:34:08.509782+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 286.0 <==
+2026-01-16T09:34:08.513648+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__1__motorbike.6.
+2026-01-16T09:34:08.514254+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__2__motorbike.2.
+2026-01-16T09:34:08.514935+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__2__car.1.
+2026-01-16T09:34:08.530419+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 287.0 <==
+2026-01-16T09:34:08.535614+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__4__motorbike.5
+2026-01-16T09:34:08.558140+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 288.0 <==
+2026-01-16T09:34:08.561946+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__2__motorbike.1.
+2026-01-16T09:34:08.582109+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:set_next_phases:45 - SIM: Time: 288.0; Yellow: Action: 0; State: grrrgrrrgyyygrrrryrr;
+2026-01-16T09:34:08.597985+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 289.0 <==
+2026-01-16T09:34:08.601972+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__2__motorbike.6.
+2026-01-16T09:34:08.623158+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 290.0 <==
+2026-01-16T09:34:08.626271+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__2__motorbike.8.
+2026-01-16T09:34:08.626704+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__3__motorbike.0.
+2026-01-16T09:34:08.647648+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 291.0 <==
+2026-01-16T09:34:08.651343+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__3__motorbike.3.
+2026-01-16T09:34:08.655594+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:update:60 - SIM: Time 291.0; Yellow -> Green: Phase Index: 3; State: grrrgGGGgrrrgrrrGrrr;
+2026-01-16T09:34:08.670841+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 292.0 <==
+2026-01-16T09:34:08.674024+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__3__motorbike.2.
+2026-01-16T09:34:08.674577+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__3__motorbike.4.
+2026-01-16T09:34:08.674898+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__4__motorbike.0.
+2026-01-16T09:34:08.694267+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 293.0 <==
+2026-01-16T09:34:08.716366+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 294.0 <==
+2026-01-16T09:34:08.719561+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__4__motorbike.8
+2026-01-16T09:34:08.725866+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__4__motorbike.6
+2026-01-16T09:34:08.746696+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 295.0 <==
+2026-01-16T09:34:08.752149+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__4__motorbike.5
+2026-01-16T09:34:08.753540+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__3__motorbike.5.
+2026-01-16T09:34:08.770515+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 296.0 <==
+2026-01-16T09:34:08.790856+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 297.0 <==
+2026-01-16T09:34:08.794837+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__4__motorbike.9
+2026-01-16T09:34:08.799046+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__4__motorbike.7
+2026-01-16T09:34:08.801110+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__3__motorbike.7.
+2026-01-16T09:34:08.801424+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__3__car.0.
+2026-01-16T09:34:08.817923+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 298.0 <==
+2026-01-16T09:34:08.820862+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__4__motorbike.10
+2026-01-16T09:34:08.823603+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__3__motorbike.8.
+2026-01-16T09:34:08.823865+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__3__car.1.
+2026-01-16T09:34:08.837254+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 299.0 <==
+2026-01-16T09:34:08.852661+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 300.0 <==
+2026-01-16T09:34:08.855921+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__4__motorbike.4
+2026-01-16T09:34:08.860248+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__4__motorbike.8
+2026-01-16T09:34:08.875811+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 301.0 <==
+2026-01-16T09:34:08.879028+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__4__car.0.
+2026-01-16T09:34:08.879519+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__4__car.4.
+2026-01-16T09:34:08.895275+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 302.0 <==
+2026-01-16T09:34:08.900392+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__5__motorbike.0
+2026-01-16T09:34:08.916454+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 303.0 <==
+2026-01-16T09:34:08.932763+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 304.0 <==
+2026-01-16T09:34:08.937699+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__5__car.0
+2026-01-16T09:34:08.941506+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__5__motorbike.1
+2026-01-16T09:34:08.959587+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 305.0 <==
+2026-01-16T09:34:08.962042+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__4__car.1.
+2026-01-16T09:34:08.962341+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__4__motorbike.1.
+2026-01-16T09:34:08.975882+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 306.0 <==
+2026-01-16T09:34:08.979617+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__5__motorbike.0
+2026-01-16T09:34:08.982539+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__4__car.2.
+2026-01-16T09:34:08.996292+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 307.0 <==
+2026-01-16T09:34:09.012790+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 308.0 <==
+2026-01-16T09:34:09.017384+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__5__motorbike.2
+2026-01-16T09:34:09.018521+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__4__car.3.
+2026-01-16T09:34:09.032225+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 309.0 <==
+2026-01-16T09:34:09.035431+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__5__car.0
+2026-01-16T09:34:09.051018+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 310.0 <==
+2026-01-16T09:34:09.071682+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 311.0 <==
+2026-01-16T09:34:09.085950+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 312.0 <==
+2026-01-16T09:34:09.088280+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__2__motorbike.6.
+2026-01-16T09:34:09.088588+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__2__motorbike.7.
+2026-01-16T09:34:09.101604+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 313.0 <==
+2026-01-16T09:34:09.105553+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__5__car.0
+2026-01-16T09:34:09.109581+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__5__motorbike.3
+2026-01-16T09:34:09.111076+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__3__motorbike.1.
+2026-01-16T09:34:09.124395+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 314.0 <==
+2026-01-16T09:34:09.127834+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__5__motorbike.1
+2026-01-16T09:34:09.143117+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 315.0 <==
+2026-01-16T09:34:09.145547+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__3__motorbike.5.
+2026-01-16T09:34:09.160492+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 316.0 <==
+2026-01-16T09:34:09.164500+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__5__car.1
+2026-01-16T09:34:09.168872+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__5__motorbike.4
+2026-01-16T09:34:09.170012+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__4__motorbike.1.
+2026-01-16T09:34:09.182787+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 317.0 <==
+2026-01-16T09:34:09.185119+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__3__motorbike.2.
+2026-01-16T09:34:09.198265+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 318.0 <==
+2026-01-16T09:34:09.202316+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__5__motorbike.0
+2026-01-16T09:34:09.205030+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__3__motorbike.4.
+2026-01-16T09:34:09.218309+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 319.0 <==
+2026-01-16T09:34:09.221669+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__5__motorbike.2
+2026-01-16T09:34:09.224397+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__3__car.1.
+2026-01-16T09:34:09.224915+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__3__car.3.
+2026-01-16T09:34:09.241328+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 320.0 <==
+2026-01-16T09:34:09.246711+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__5__motorbike.0
+2026-01-16T09:34:09.250075+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__3__car.2.
+2026-01-16T09:34:09.250574+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__4__car.0.
+2026-01-16T09:34:09.250942+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__4__car.1.
+2026-01-16T09:34:09.267219+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 321.0 <==
+2026-01-16T09:34:09.269976+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__4__car.5.
+2026-01-16T09:34:09.281326+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:set_next_phases:45 - SIM: Time: 321.0; Yellow: Action: 0; State: grrrgyyygrrrgrrryrrr;
+2026-01-16T09:34:09.293072+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 322.0 <==
+2026-01-16T09:34:09.295571+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__3__motorbike.3.
+2026-01-16T09:34:09.309655+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 323.0 <==
+2026-01-16T09:34:09.313683+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__5__motorbike.1
+2026-01-16T09:34:09.318467+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__3__car.4.
+2026-01-16T09:34:09.319029+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__4__motorbike.4.
+2026-01-16T09:34:09.335443+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 324.0 <==
+2026-01-16T09:34:09.337924+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__4__motorbike.0.
+2026-01-16T09:34:09.338346+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__4__motorbike.5.
+2026-01-16T09:34:09.341490+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:update:60 - SIM: Time 324.0; Yellow -> Green: Phase Index: 0; State: gGGGgrrrgrrrgrrrrrrG;
+2026-01-16T09:34:09.352583+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 325.0 <==
+2026-01-16T09:34:09.356301+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__5__motorbike.3
+2026-01-16T09:34:09.371217+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 326.0 <==
+2026-01-16T09:34:09.373701+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__4__motorbike.2.
+2026-01-16T09:34:09.385916+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 327.0 <==
+2026-01-16T09:34:09.389818+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__5__car.2
+2026-01-16T09:34:09.403291+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 328.0 <==
+2026-01-16T09:34:09.407264+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__5__car.0
+2026-01-16T09:34:09.409324+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__4__motorbike.3.
+2026-01-16T09:34:09.422843+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 329.0 <==
+2026-01-16T09:34:09.426874+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__5__motorbike.1
+2026-01-16T09:34:09.443470+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 330.0 <==
+2026-01-16T09:34:09.462903+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 331.0 <==
+2026-01-16T09:34:09.482648+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 332.0 <==
+2026-01-16T09:34:09.501998+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 333.0 <==
+2026-01-16T09:34:09.506329+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__5__car.1
+2026-01-16T09:34:09.511270+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__5__motorbike.2
+2026-01-16T09:34:09.531117+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 334.0 <==
+2026-01-16T09:34:09.534223+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__4__motorbike.7.
+2026-01-16T09:34:09.549403+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 335.0 <==
+2026-01-16T09:34:09.553091+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__5__motorbike.4
+2026-01-16T09:34:09.559801+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__5__motorbike.5
+2026-01-16T09:34:09.561594+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__4__motorbike.6.
+2026-01-16T09:34:09.581003+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 336.0 <==
+2026-01-16T09:34:09.585953+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__5__car.1
+2026-01-16T09:34:09.591008+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__5__car.2
+2026-01-16T09:34:09.610913+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 337.0 <==
+2026-01-16T09:34:09.617362+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__5__motorbike.6
+2026-01-16T09:34:09.637162+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 338.0 <==
+2026-01-16T09:34:09.657359+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 339.0 <==
+2026-01-16T09:34:09.662512+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__5__motorbike.3
+2026-01-16T09:34:09.667320+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__5__motorbike.7
+2026-01-16T09:34:09.668969+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__4__motorbike.9.
+2026-01-16T09:34:09.691491+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 340.0 <==
+2026-01-16T09:34:09.712027+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 341.0 <==
+2026-01-16T09:34:09.715935+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__5__motorbike.4
+2026-01-16T09:34:09.720156+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__5__motorbike.2
+2026-01-16T09:34:09.737447+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 342.0 <==
+2026-01-16T09:34:09.754369+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 343.0 <==
+2026-01-16T09:34:09.758318+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__5__motorbike.5
+2026-01-16T09:34:09.773539+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 344.0 <==
+2026-01-16T09:34:09.777395+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__5__motorbike.5
+2026-01-16T09:34:09.779421+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__3__motorbike.5.
+2026-01-16T09:34:09.793564+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 345.0 <==
+2026-01-16T09:34:09.797675+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__5__car.3
+2026-01-16T09:34:09.799605+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__3__motorbike.8.
+2026-01-16T09:34:09.813127+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 346.0 <==
+2026-01-16T09:34:09.815662+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__3__motorbike.9.
+2026-01-16T09:34:09.829142+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 347.0 <==
+2026-01-16T09:34:09.831815+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__4__car.1.
+2026-01-16T09:34:09.847090+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 348.0 <==
+2026-01-16T09:34:09.851612+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__5__motorbike.3
+2026-01-16T09:34:09.869544+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 349.0 <==
+2026-01-16T09:34:09.873485+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__5__motorbike.6
+2026-01-16T09:34:09.876330+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__4__motorbike.8.
+2026-01-16T09:34:09.892034+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 350.0 <==
+2026-01-16T09:34:09.895840+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__5__car.3
+2026-01-16T09:34:09.899973+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__5__motorbike.4
+2026-01-16T09:34:09.902134+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__2__car.3.
+2026-01-16T09:34:09.916076+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 351.0 <==
+2026-01-16T09:34:09.918528+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__2__motorbike.5.
+2026-01-16T09:34:09.918844+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__2__motorbike.6.
+2026-01-16T09:34:09.919067+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__4__car.2.
+2026-01-16T09:34:09.919250+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__4__car.3.
+2026-01-16T09:34:09.933685+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 352.0 <==
+2026-01-16T09:34:09.937099+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__5__car.2
+2026-01-16T09:34:09.941256+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__5__motorbike.6
+2026-01-16T09:34:09.956384+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 353.0 <==
+2026-01-16T09:34:09.958909+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__2__motorbike.4.
+2026-01-16T09:34:09.959313+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__3__motorbike.0.
+2026-01-16T09:34:09.959519+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__3__motorbike.3.
+2026-01-16T09:34:09.959708+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__5__motorbike.0.
+2026-01-16T09:34:09.959932+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__5__car.0.
+2026-01-16T09:34:09.975673+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 354.0 <==
+2026-01-16T09:34:09.980093+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__5__motorbike.5
+2026-01-16T09:34:09.982324+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__3__motorbike.2.
+2026-01-16T09:34:09.982698+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__4__motorbike.4.
+2026-01-16T09:34:09.996688+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:set_next_phases:45 - SIM: Time: 354.0; Yellow: Action: 0; State: gyyygrrrgrrrgrrrrrry;
+2026-01-16T09:34:10.007554+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 355.0 <==
+2026-01-16T09:34:10.012130+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__5__motorbike.8
+2026-01-16T09:34:10.013294+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__3__motorbike.4.
+2026-01-16T09:34:10.028969+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 356.0 <==
+2026-01-16T09:34:10.047591+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 357.0 <==
+2026-01-16T09:34:10.050366+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__3__car.0.
+2026-01-16T09:34:10.054516+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:update:60 - SIM: Time 357.0; Yellow -> Green: Phase Index: 1; State: grrrgrrrgrrrgGGGrrGr;
+2026-01-16T09:34:10.072868+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 358.0 <==
+2026-01-16T09:34:10.102430+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 359.0 <==
+2026-01-16T09:34:10.108230+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__5__motorbike.7
+2026-01-16T09:34:10.111815+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__3__motorbike.6.
+2026-01-16T09:34:10.112928+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__5__motorbike.4.
+2026-01-16T09:34:10.137650+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 360.0 <==
+2026-01-16T09:34:10.169612+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 361.0 <==
+2026-01-16T09:34:10.174465+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__5__car.4
+2026-01-16T09:34:10.179585+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__5__motorbike.9
+2026-01-16T09:34:10.181299+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__3__motorbike.7.
+2026-01-16T09:34:10.195855+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 362.0 <==
+2026-01-16T09:34:10.212154+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 363.0 <==
+2026-01-16T09:34:10.215688+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__6__motorbike.0
+2026-01-16T09:34:10.219722+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__6__motorbike.0
+2026-01-16T09:34:10.221641+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__4__car.0.
+2026-01-16T09:34:10.234798+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 364.0 <==
+2026-01-16T09:34:10.237974+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__4__motorbike.0.
+2026-01-16T09:34:10.238418+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__4__motorbike.3.
+2026-01-16T09:34:10.254107+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 365.0 <==
+2026-01-16T09:34:10.259180+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__6__motorbike.0
+2026-01-16T09:34:10.279198+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 366.0 <==
+2026-01-16T09:34:10.284447+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__6__car.0
+2026-01-16T09:34:10.289168+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__6__motorbike.0
+2026-01-16T09:34:10.291333+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__4__motorbike.1.
+2026-01-16T09:34:10.291781+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__4__motorbike.2.
+2026-01-16T09:34:10.308970+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 367.0 <==
+2026-01-16T09:34:10.328170+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 368.0 <==
+2026-01-16T09:34:10.332082+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__4__car.4.
+2026-01-16T09:34:10.345498+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 369.0 <==
+2026-01-16T09:34:10.350261+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__6__motorbike.1
+2026-01-16T09:34:10.364330+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 370.0 <==
+2026-01-16T09:34:10.366526+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__4__motorbike.5.
+2026-01-16T09:34:10.379946+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 371.0 <==
+2026-01-16T09:34:10.384138+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__6__car.0
+2026-01-16T09:34:10.398680+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 372.0 <==
+2026-01-16T09:34:10.400734+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__5__car.0.
+2026-01-16T09:34:10.411794+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 373.0 <==
+2026-01-16T09:34:10.413861+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__5__motorbike.1.
+2026-01-16T09:34:10.414101+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__5__motorbike.2.
+2026-01-16T09:34:10.430905+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 374.0 <==
+2026-01-16T09:34:10.434668+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__6__motorbike.1
+2026-01-16T09:34:10.437756+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__6__motorbike.2
+2026-01-16T09:34:10.452319+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 375.0 <==
+2026-01-16T09:34:10.456273+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__6__car.1
+2026-01-16T09:34:10.469122+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 376.0 <==
+2026-01-16T09:34:10.473246+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__6__motorbike.2
+2026-01-16T09:34:10.486434+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 377.0 <==
+2026-01-16T09:34:10.500494+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 378.0 <==
+2026-01-16T09:34:10.503768+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__6__car.0
+2026-01-16T09:34:10.506001+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__4__motorbike.0.
+2026-01-16T09:34:10.506389+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__4__motorbike.1.
+2026-01-16T09:34:10.519352+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 379.0 <==
+2026-01-16T09:34:10.533289+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 380.0 <==
+2026-01-16T09:34:10.536397+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__6__motorbike.1
+2026-01-16T09:34:10.538540+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__4__motorbike.7.
+2026-01-16T09:34:10.538901+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__4__motorbike.8.
+2026-01-16T09:34:10.539200+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__4__motorbike.10.
+2026-01-16T09:34:10.551386+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 381.0 <==
+2026-01-16T09:34:10.554990+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__6__motorbike.2
+2026-01-16T09:34:10.557526+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__4__motorbike.2.
+2026-01-16T09:34:10.557854+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__4__motorbike.3.
+2026-01-16T09:34:10.569214+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 382.0 <==
+2026-01-16T09:34:10.571351+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__5__motorbike.3.
+2026-01-16T09:34:10.582868+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 383.0 <==
+2026-01-16T09:34:10.584782+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__4__motorbike.4.
+2026-01-16T09:34:10.585054+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__4__motorbike.6.
+2026-01-16T09:34:10.596968+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 384.0 <==
+2026-01-16T09:34:10.600448+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__6__motorbike.3
+2026-01-16T09:34:10.604252+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__6__motorbike.1
+2026-01-16T09:34:10.607545+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__6__motorbike.3
+2026-01-16T09:34:10.608637+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__5__motorbike.0.
+2026-01-16T09:34:10.620371+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 385.0 <==
+2026-01-16T09:34:10.624178+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__6__motorbike.2
+2026-01-16T09:34:10.625728+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__4__motorbike.5.
+2026-01-16T09:34:10.637823+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 386.0 <==
+2026-01-16T09:34:10.641598+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__6__motorbike.3
+2026-01-16T09:34:10.646757+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__6__motorbike.4
+2026-01-16T09:34:10.661014+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 387.0 <==
+2026-01-16T09:34:10.663711+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__5__car.0.
+2026-01-16T09:34:10.677573+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:set_next_phases:45 - SIM: Time: 387.0; Yellow: Action: 0; State: grrrgrrrgrrrgyyyrryr;
+2026-01-16T09:34:10.688863+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 388.0 <==
+2026-01-16T09:34:10.692160+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__6__motorbike.4
+2026-01-16T09:34:10.695304+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__6__motorbike.3
+2026-01-16T09:34:10.696777+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__5__motorbike.6.
+2026-01-16T09:34:10.708155+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 389.0 <==
+2026-01-16T09:34:10.712635+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__6__motorbike.5
+2026-01-16T09:34:10.713711+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__5__motorbike.1.
+2026-01-16T09:34:10.725965+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 390.0 <==
+2026-01-16T09:34:10.730060+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__6__car.2
+2026-01-16T09:34:10.735600+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:update:60 - SIM: Time 390.0; Yellow -> Green: Phase Index: 2; State: grrrgrrrgGGGgrrrrGrr;
+2026-01-16T09:34:10.749054+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 391.0 <==
+2026-01-16T09:34:10.752920+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__6__car.1
+2026-01-16T09:34:10.754211+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__5__motorbike.2.
+2026-01-16T09:34:10.768613+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 392.0 <==
+2026-01-16T09:34:10.770797+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__5__car.1.
+2026-01-16T09:34:10.782697+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 393.0 <==
+2026-01-16T09:34:10.785626+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__6__motorbike.4
+2026-01-16T09:34:10.800675+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 394.0 <==
+2026-01-16T09:34:10.805898+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__6__motorbike.6
+2026-01-16T09:34:10.807084+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__5__motorbike.4.
+2026-01-16T09:34:10.807393+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__5__motorbike.5.
+2026-01-16T09:34:10.821497+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 395.0 <==
+2026-01-16T09:34:10.825333+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__6__motorbike.5
+2026-01-16T09:34:10.830210+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__6__car.2
+2026-01-16T09:34:10.832098+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__5__car.3.
+2026-01-16T09:34:10.832431+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__5__motorbike.8.
+2026-01-16T09:34:10.851845+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 396.0 <==
+2026-01-16T09:34:10.870428+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 397.0 <==
+2026-01-16T09:34:10.872838+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__5__car.2.
+2026-01-16T09:34:10.885818+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 398.0 <==
+2026-01-16T09:34:10.902095+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 399.0 <==
+2026-01-16T09:34:10.920587+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 400.0 <==
+2026-01-16T09:34:10.934841+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 401.0 <==
+2026-01-16T09:34:10.936935+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__6__motorbike.0.
+2026-01-16T09:34:10.949869+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 402.0 <==
+2026-01-16T09:34:10.953822+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__6__car.0
+2026-01-16T09:34:10.958163+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__6__motorbike.6
+2026-01-16T09:34:10.991788+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 403.0 <==
+2026-01-16T09:34:11.005830+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 404.0 <==
+2026-01-16T09:34:11.024405+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 405.0 <==
+2026-01-16T09:34:11.028788+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__6__car.1
+2026-01-16T09:34:11.045851+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 406.0 <==
+2026-01-16T09:34:11.049693+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__6__car.3
+2026-01-16T09:34:11.063472+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 407.0 <==
+2026-01-16T09:34:11.077732+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 408.0 <==
+2026-01-16T09:34:11.080511+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__6__motorbike.5
+2026-01-16T09:34:11.084410+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__6__car.4
+2026-01-16T09:34:11.097858+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 409.0 <==
+2026-01-16T09:34:11.112655+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 410.0 <==
+2026-01-16T09:34:11.128322+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 411.0 <==
+2026-01-16T09:34:11.130636+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__5__motorbike.3.
+2026-01-16T09:34:11.143086+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 412.0 <==
+2026-01-16T09:34:11.156753+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 413.0 <==
+2026-01-16T09:34:11.159622+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__6__car.1
+2026-01-16T09:34:11.162162+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__4__motorbike.2.
+2026-01-16T09:34:11.174307+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 414.0 <==
+2026-01-16T09:34:11.177666+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__6__motorbike.7
+2026-01-16T09:34:11.181797+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__6__motorbike.7
+2026-01-16T09:34:11.183919+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__5__motorbike.4.
+2026-01-16T09:34:11.184319+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__6__motorbike.0.
+2026-01-16T09:34:11.196398+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 415.0 <==
+2026-01-16T09:34:11.199805+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__6__motorbike.6
+2026-01-16T09:34:11.202209+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__4__motorbike.3.
+2026-01-16T09:34:11.202508+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__5__motorbike.1.
+2026-01-16T09:34:11.216977+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 416.0 <==
+2026-01-16T09:34:11.219230+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__4__motorbike.4.
+2026-01-16T09:34:11.233597+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 417.0 <==
+2026-01-16T09:34:11.253423+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 418.0 <==
+2026-01-16T09:34:11.256050+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__5__motorbike.0.
+2026-01-16T09:34:11.256608+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__5__motorbike.6.
+2026-01-16T09:34:11.268789+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 419.0 <==
+2026-01-16T09:34:11.284436+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 420.0 <==
+2026-01-16T09:34:11.288389+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__6__motorbike.8
+2026-01-16T09:34:11.303410+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:set_next_phases:45 - SIM: Time: 420.0; Yellow: Action: 0; State: grrrgrrrgyyygrrrryrr;
+2026-01-16T09:34:11.315188+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 421.0 <==
+2026-01-16T09:34:11.318543+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__6__motorbike.8
+2026-01-16T09:34:11.323222+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__6__car.5
+2026-01-16T09:34:11.328045+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__6__motorbike.7
+2026-01-16T09:34:11.329678+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__5__car.0.
+2026-01-16T09:34:11.347700+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 422.0 <==
+2026-01-16T09:34:11.352416+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__6__motorbike.4
+2026-01-16T09:34:11.372407+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 423.0 <==
+2026-01-16T09:34:11.376961+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__7__car.0
+2026-01-16T09:34:11.382678+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__7__motorbike.0
+2026-01-16T09:34:11.385865+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__5__motorbike.2.
+2026-01-16T09:34:11.389740+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:update:60 - SIM: Time 423.0; Yellow -> Green: Phase Index: 3; State: grrrgGGGgrrrgrrrGrrr;
+2026-01-16T09:34:11.405778+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 424.0 <==
+2026-01-16T09:34:11.412204+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__7__motorbike.0
+2026-01-16T09:34:11.416499+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__7__motorbike.1
+2026-01-16T09:34:11.437209+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 425.0 <==
+2026-01-16T09:34:11.440347+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__5__car.1.
+2026-01-16T09:34:11.456688+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 426.0 <==
+2026-01-16T09:34:11.459030+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__5__car.2.
+2026-01-16T09:34:11.478169+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 427.0 <==
+2026-01-16T09:34:11.493249+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 428.0 <==
+2026-01-16T09:34:11.495781+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__6__motorbike.2.
+2026-01-16T09:34:11.510520+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 429.0 <==
+2026-01-16T09:34:11.513221+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__5__motorbike.7.
+2026-01-16T09:34:11.513574+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__6__motorbike.1.
+2026-01-16T09:34:11.527722+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 430.0 <==
+2026-01-16T09:34:11.531767+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__7__motorbike.0
+2026-01-16T09:34:11.534093+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__5__motorbike.5.
+2026-01-16T09:34:11.534764+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__6__motorbike.3.
+2026-01-16T09:34:11.535231+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__6__motorbike.5.
+2026-01-16T09:34:11.550417+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 431.0 <==
+2026-01-16T09:34:11.570734+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 432.0 <==
+2026-01-16T09:34:11.575047+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__7__car.0
+2026-01-16T09:34:11.577128+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__6__motorbike.4.
+2026-01-16T09:34:11.593849+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 433.0 <==
+2026-01-16T09:34:11.596931+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__7__motorbike.1
+2026-01-16T09:34:11.602666+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__7__car.0
+2026-01-16T09:34:11.617998+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 434.0 <==
+2026-01-16T09:34:11.622322+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__7__car.1
+2026-01-16T09:34:11.626853+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__7__motorbike.0
+2026-01-16T09:34:11.632063+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__7__motorbike.1
+2026-01-16T09:34:11.649664+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 435.0 <==
+2026-01-16T09:34:11.673314+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 436.0 <==
+2026-01-16T09:34:11.678666+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__7__car.2
+2026-01-16T09:34:11.685088+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__7__motorbike.2
+2026-01-16T09:34:11.703427+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 437.0 <==
+2026-01-16T09:34:11.709240+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__7__motorbike.2
+2026-01-16T09:34:11.725085+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 438.0 <==
+2026-01-16T09:34:11.729076+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__7__car.0
+2026-01-16T09:34:11.731746+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__6__motorbike.6.
+2026-01-16T09:34:11.747149+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 439.0 <==
+2026-01-16T09:34:11.751190+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__7__motorbike.2
+2026-01-16T09:34:11.755002+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__7__motorbike.1
+2026-01-16T09:34:11.772077+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 440.0 <==
+2026-01-16T09:34:11.790957+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 441.0 <==
+2026-01-16T09:34:11.812327+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 442.0 <==
+2026-01-16T09:34:11.829451+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 443.0 <==
+2026-01-16T09:34:11.846811+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 444.0 <==
+2026-01-16T09:34:11.863222+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 445.0 <==
+2026-01-16T09:34:11.880991+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 446.0 <==
+2026-01-16T09:34:11.883353+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__5__car.1.
+2026-01-16T09:34:11.883608+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__5__motorbike.0.
+2026-01-16T09:34:11.897065+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 447.0 <==
+2026-01-16T09:34:11.899420+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__6__car.1.
+2026-01-16T09:34:11.915614+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 448.0 <==
+2026-01-16T09:34:11.919668+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__7__motorbike.3
+2026-01-16T09:34:11.933894+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 449.0 <==
+2026-01-16T09:34:11.936302+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__5__car.2.
+2026-01-16T09:34:11.936628+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__5__motorbike.4.
+2026-01-16T09:34:11.949285+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 450.0 <==
+2026-01-16T09:34:11.953666+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__7__motorbike.3
+2026-01-16T09:34:11.954913+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__5__motorbike.1.
+2026-01-16T09:34:11.955160+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__6__car.2.
+2026-01-16T09:34:11.970108+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 451.0 <==
+2026-01-16T09:34:11.986999+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 452.0 <==
+2026-01-16T09:34:11.991971+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__7__motorbike.4
+2026-01-16T09:34:11.993419+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__5__motorbike.2.
+2026-01-16T09:34:12.010135+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 453.0 <==
+2026-01-16T09:34:12.013717+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__7__motorbike.3
+2026-01-16T09:34:12.028946+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:set_next_phases:45 - SIM: Time: 453.0; Yellow: Action: 0; State: grrrgyyygrrrgrrryrrr;
+2026-01-16T09:34:12.040419+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 454.0 <==
+2026-01-16T09:34:12.042502+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__5__car.3.
+2026-01-16T09:34:12.042794+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E2__6__motorbike.7.
+2026-01-16T09:34:12.056418+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 455.0 <==
+2026-01-16T09:34:12.059970+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__7__motorbike.4
+2026-01-16T09:34:12.064360+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__7__motorbike.2
+2026-01-16T09:34:12.066457+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__5__motorbike.3.
+2026-01-16T09:34:12.079361+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 456.0 <==
+2026-01-16T09:34:12.083258+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__7__car.1
+2026-01-16T09:34:12.084561+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__5__motorbike.5.
+2026-01-16T09:34:12.087263+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:update:60 - SIM: Time 456.0; Yellow -> Green: Phase Index: 0; State: gGGGgrrrgrrrgrrrrrrG;
+2026-01-16T09:34:12.099892+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 457.0 <==
+2026-01-16T09:34:12.103852+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__7__car.1
+2026-01-16T09:34:12.118278+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 458.0 <==
+2026-01-16T09:34:12.121663+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__7__motorbike.3
+2026-01-16T09:34:12.123628+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__5__car.4.
+2026-01-16T09:34:12.136719+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 459.0 <==
+2026-01-16T09:34:12.138783+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__6__motorbike.4.
+2026-01-16T09:34:12.151049+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 460.0 <==
+2026-01-16T09:34:12.154319+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__7__motorbike.5
+2026-01-16T09:34:12.156845+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__6__car.0.
+2026-01-16T09:34:12.170173+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 461.0 <==
+2026-01-16T09:34:12.172517+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__6__motorbike.0.
+2026-01-16T09:34:12.185841+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 462.0 <==
+2026-01-16T09:34:12.190410+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__7__motorbike.4
+2026-01-16T09:34:12.204215+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 463.0 <==
+2026-01-16T09:34:12.207722+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__7__motorbike.4
+2026-01-16T09:34:12.211523+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__7__car.2
+2026-01-16T09:34:12.213198+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__6__car.1.
+2026-01-16T09:34:12.225927+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 464.0 <==
+2026-01-16T09:34:12.240473+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 465.0 <==
+2026-01-16T09:34:12.244231+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__7__motorbike.5
+2026-01-16T09:34:12.248084+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__7__motorbike.5
+2026-01-16T09:34:12.249244+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__6__motorbike.3.
+2026-01-16T09:34:12.262034+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 466.0 <==
+2026-01-16T09:34:12.277672+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 467.0 <==
+2026-01-16T09:34:12.281393+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__7__motorbike.5
+2026-01-16T09:34:12.285205+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__7__motorbike.6
+2026-01-16T09:34:12.302410+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 468.0 <==
+2026-01-16T09:34:12.305826+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__7__motorbike.6
+2026-01-16T09:34:12.308092+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__6__car.3.
+2026-01-16T09:34:12.321769+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 469.0 <==
+2026-01-16T09:34:12.325311+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__7__motorbike.6
+2026-01-16T09:34:12.329422+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__7__car.3
+2026-01-16T09:34:12.344372+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 470.0 <==
+2026-01-16T09:34:12.348298+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__7__motorbike.7
+2026-01-16T09:34:12.350394+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__6__motorbike.1.
+2026-01-16T09:34:12.350652+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__6__motorbike.2.
+2026-01-16T09:34:12.363443+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 471.0 <==
+2026-01-16T09:34:12.366150+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__7__car.0.
+2026-01-16T09:34:12.379725+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 472.0 <==
+2026-01-16T09:34:12.383943+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__7__motorbike.8
+2026-01-16T09:34:12.388122+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__7__motorbike.7
+2026-01-16T09:34:12.390345+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__6__car.4.
+2026-01-16T09:34:12.403925+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 473.0 <==
+2026-01-16T09:34:12.407308+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__7__car.1
+2026-01-16T09:34:12.423587+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 474.0 <==
+2026-01-16T09:34:12.428673+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__7__motorbike.6
+2026-01-16T09:34:12.443154+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 475.0 <==
+2026-01-16T09:34:12.458543+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 476.0 <==
+2026-01-16T09:34:12.475204+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 477.0 <==
+2026-01-16T09:34:12.477808+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__6__motorbike.0.
+2026-01-16T09:34:12.493217+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 478.0 <==
+2026-01-16T09:34:12.495507+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__5__motorbike.7.
+2026-01-16T09:34:12.509472+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 479.0 <==
+2026-01-16T09:34:12.511859+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__6__motorbike.3.
+2026-01-16T09:34:12.529526+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 480.0 <==
+2026-01-16T09:34:12.533209+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E1__7__car.3
+2026-01-16T09:34:12.537526+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__7__motorbike.8
+2026-01-16T09:34:12.539457+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__7__motorbike.0.
+2026-01-16T09:34:12.552740+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 481.0 <==
+2026-01-16T09:34:12.555349+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__5__motorbike.5.
+2026-01-16T09:34:12.568115+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 482.0 <==
+2026-01-16T09:34:12.570242+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__5__motorbike.3.
+2026-01-16T09:34:12.570533+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__5__motorbike.6.
+2026-01-16T09:34:12.570741+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__6__motorbike.1.
+2026-01-16T09:34:12.570924+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__6__car.0.
+2026-01-16T09:34:12.589709+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 483.0 <==
+2026-01-16T09:34:12.593055+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__8__motorbike.0
+2026-01-16T09:34:12.597053+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__8__motorbike.0
+2026-01-16T09:34:12.613051+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 484.0 <==
+2026-01-16T09:34:12.627813+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 485.0 <==
+2026-01-16T09:34:12.630369+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__6__motorbike.4.
+2026-01-16T09:34:12.643385+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 486.0 <==
+2026-01-16T09:34:12.645839+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__5__motorbike.9.
+2026-01-16T09:34:12.657157+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:set_next_phases:45 - SIM: Time: 486.0; Yellow: Action: 0; State: gyyygrrrgrrrgrrrrrry;
+2026-01-16T09:34:12.668708+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 487.0 <==
+2026-01-16T09:34:12.672249+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__8__motorbike.0
+2026-01-16T09:34:12.673775+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__6__motorbike.5.
+2026-01-16T09:34:12.686585+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 488.0 <==
+2026-01-16T09:34:12.690386+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__8__motorbike.1
+2026-01-16T09:34:12.692338+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__6__motorbike.2.
+2026-01-16T09:34:12.704803+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 489.0 <==
+2026-01-16T09:34:12.709437+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__8__motorbike.1
+2026-01-16T09:34:12.710627+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__6__car.1.
+2026-01-16T09:34:12.713282+0700 | DEBUG  | TransSimHub.tshub.traffic_light.tls_type.next_or_not:update:60 - SIM: Time 489.0; Yellow -> Green: Phase Index: 1; State: grrrgrrrgrrrgGGGrrGr;
+2026-01-16T09:34:12.726467+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 490.0 <==
+2026-01-16T09:34:12.729898+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__8__motorbike.0
+2026-01-16T09:34:12.737089+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__6__motorbike.6.
+2026-01-16T09:34:12.750438+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 491.0 <==
+2026-01-16T09:34:12.754965+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__8__motorbike.2
+2026-01-16T09:34:12.769202+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 492.0 <==
+2026-01-16T09:34:12.772609+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__6__car.2.
+2026-01-16T09:34:12.786337+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 493.0 <==
+2026-01-16T09:34:12.790958+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__8__motorbike.2
+2026-01-16T09:34:12.794828+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__8__motorbike.3
+2026-01-16T09:34:12.808008+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 494.0 <==
+2026-01-16T09:34:12.812058+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__8__motorbike.3
+2026-01-16T09:34:12.813884+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__6__motorbike.7.
+2026-01-16T09:34:12.826597+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 495.0 <==
+2026-01-16T09:34:12.829987+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__7__motorbike.1.
+2026-01-16T09:34:12.845146+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 496.0 <==
+2026-01-16T09:34:12.860937+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 497.0 <==
+2026-01-16T09:34:12.864664+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E2__8__car.0
+2026-01-16T09:34:12.868919+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__8__motorbike.1
+2026-01-16T09:34:12.870777+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__7__car.0.
+2026-01-16T09:34:12.883848+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 498.0 <==
+2026-01-16T09:34:12.887620+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__8__motorbike.4
+2026-01-16T09:34:12.889511+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__7__car.2.
+2026-01-16T09:34:12.903266+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 499.0 <==
+2026-01-16T09:34:12.905825+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__7__motorbike.2.
+2026-01-16T09:34:12.920041+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 500.0 <==
+2026-01-16T09:34:12.922463+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__7__motorbike.3.
+2026-01-16T09:34:12.922799+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__7__motorbike.4.
+2026-01-16T09:34:12.935133+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 501.0 <==
+2026-01-16T09:34:12.937449+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E3__7__motorbike.4.
+2026-01-16T09:34:12.950369+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 502.0 <==
+2026-01-16T09:34:12.952454+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__7__car.1.
+2026-01-16T09:34:12.964625+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 503.0 <==
+2026-01-16T09:34:12.978473+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 504.0 <==
+2026-01-16T09:34:12.980703+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__7__motorbike.5.
+2026-01-16T09:34:12.992914+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 505.0 <==
+2026-01-16T09:34:12.997145+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__8__motorbike.5
+2026-01-16T09:34:13.001203+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__8__motorbike.4
+2026-01-16T09:34:13.015284+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 506.0 <==
+2026-01-16T09:34:13.019161+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__8__motorbike.1
+2026-01-16T09:34:13.033458+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 507.0 <==
+2026-01-16T09:34:13.047583+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 508.0 <==
+2026-01-16T09:34:13.062040+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 509.0 <==
+2026-01-16T09:34:13.066252+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E2__8__motorbike.6
+2026-01-16T09:34:13.067891+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID E0__7__car.3.
+2026-01-16T09:34:13.079874+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 510.0 <==
+2026-01-16T09:34:13.083504+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__8__motorbike.2
+2026-01-16T09:34:13.085739+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__6__car.0.
+2026-01-16T09:34:13.086034+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__7__car.0.
+2026-01-16T09:34:13.098065+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 511.0 <==
+2026-01-16T09:34:13.100271+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__6__motorbike.4.
+2026-01-16T09:34:13.100660+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__6__motorbike.7.
+2026-01-16T09:34:13.100869+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__7__motorbike.1.
+2026-01-16T09:34:13.113939+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 512.0 <==
+2026-01-16T09:34:13.118455+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: -E3__8__car.0
+2026-01-16T09:34:13.119802+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__6__motorbike.5.
+2026-01-16T09:34:13.131820+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 513.0 <==
+2026-01-16T09:34:13.133885+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__6__motorbike.1.
+2026-01-16T09:34:13.145228+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 514.0 <==
+2026-01-16T09:34:13.158210+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 515.0 <==
+2026-01-16T09:34:13.162239+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: E0__8__motorbike.5
+2026-01-16T09:34:13.163443+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__6__motorbike.2.
+2026-01-16T09:34:13.163705+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__7__motorbike.6.
+2026-01-16T09:34:13.174798+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 516.0 <==
+2026-01-16T09:34:13.178827+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__8__motorbike.2
+2026-01-16T09:34:13.191071+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 517.0 <==
+2026-01-16T09:34:13.194719+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E1__8__motorbike.3
+2026-01-16T09:34:13.196840+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__6__motorbike.3.
+2026-01-16T09:34:13.197107+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle_builder:__delete_vehicle:62 - SIM: Delete Vehicle with ID -E1__6__car.1.
+2026-01-16T09:34:13.208712+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 518.0 <==
+2026-01-16T09:34:13.212773+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: motorbike: -E3__8__motorbike.3
+2026-01-16T09:34:13.215750+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__8__car.0
+2026-01-16T09:34:13.228987+0700 | INFO   | TransSimHub.tshub.tshub_env.tshub_env:step:161 - SIM: ==> Simulation Step: 519.0 <==
+2026-01-16T09:34:13.232967+0700 | INFO   | TransSimHub.tshub.vehicle.vehicle:create_vehicle:88 - SIM: Init Vehicle: car: E0__8__car.1
+2026-01-16T09:34:13.250054+0700 | INFO   | TransSimHub.tshub.tshub_env.base_sumo_env:_close_simulation:248 - SIM: Close Env Label, 1.
+2026-01-16T09:34:13.250445+0700 | INFO   | TransSimHub.tshub.tshub_env.base_sumo_env:_start_simulation:169 - SIM: 指定了 net 文件, /home/hoanganh04/Projects/CoLight/PPO/../Scenario/1node/env/1node.net.xml
+2026-01-16T09:34:13.250671+0700 | DEBUG  | TransSimHub.tshub.tshub_env.base_sumo_env:_start_simulation:226 - SIM: Not Set Port.
+2026-01-16T09:34:43.952453+0700 | INFO   | TransSimHub.tshub.tshub_env.base_sumo_env:_close_simulation:242 - SIM: Close Env Label (Reset Mode), 1.
